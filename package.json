@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bot-v2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multi-account Twitter bot for campaign-based referral posting.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "tsx src/bot.ts",
+    "check": "tsc --noEmit -p tsconfig.json",
+    "import:excel": "tsx scripts/importFromExcel.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/generative-ai": "latest",
+    "twitter-api-v2": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest",
+    "xlsx": "latest"
+  }
+}
