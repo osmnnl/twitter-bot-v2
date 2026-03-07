@@ -1,4 +1,5 @@
 import { env } from "./config/env.js";
+import { calculateRandomDelayMs, isAllowedHour } from "./config/scheduleProfile.js";
 import { accounts } from "./data/accounts.js";
 import type { PublishingAccount } from "./domain/account.js";
 import type { PostHistory } from "./domain/history.js";
@@ -30,6 +31,9 @@ type AccountRunResult = {
 async function main(): Promise<void> {
   const now = new Date();
   const dryRun = env.botDryRun();
+
+  await applyStartupJitter(dryRun);
+
   const stateStore = new RepoStateAdapter({
     stateBranch: env.stateBranch(),
     pushChanges: !dryRun,
@@ -78,7 +82,7 @@ async function runAccount(
   dryRun: boolean,
 ): Promise<{ result: AccountRunResult; historyEntry?: PostHistory }> {
   try {
-    if (!account.scheduleProfile.allowedHours.includes(now.getHours())) {
+    if (!isAllowedHour(account.scheduleProfile, now)) {
       return {
         result: {
           accountId: account.accountId,
@@ -214,6 +218,33 @@ async function generateTweetText(
     tweetText: fallbackText,
     usedAi: false,
   };
+}
+
+async function applyStartupJitter(dryRun: boolean): Promise<void> {
+  if (dryRun || env.botDisableJitter()) {
+    return;
+  }
+
+  const maxRandomDelayMinutes = accounts.reduce((maxMinutes, account) => {
+    return Math.max(maxMinutes, account.scheduleProfile.randomDelayMinutes);
+  }, 0);
+
+  const maxDelayMs = calculateRandomDelayMs({
+    targetPostsPerDay: 0,
+    allowedHours: [],
+    minGapHours: 0,
+    randomDelayMinutes: maxRandomDelayMinutes,
+  });
+
+  if (maxDelayMs <= 0) {
+    return;
+  }
+
+  await sleep(maxDelayMs);
+}
+
+async function sleep(ms: number): Promise<void> {
+  await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 main().catch((error: unknown) => {

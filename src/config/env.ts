@@ -47,5 +47,6 @@ export const env = {
   geminiApiKey: () => readEnv("GEMINI_API_KEY", false),
   stateBranch: () => readEnv("STATE_BRANCH", false) || "state",
   botDryRun: () => readBooleanEnv("BOT_DRY_RUN", true),
+  botDisableJitter: () => readBooleanEnv("BOT_DISABLE_JITTER", false),
   twitterCredentials,
 };
