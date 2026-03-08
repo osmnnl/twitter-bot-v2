@@ -77,11 +77,11 @@ function isCampaignEligible(
     return false;
   }
 
-  const recentCategoryPosts = sortedAccountHistory
-    .slice(0, 6)
-    .filter((item) => productMap.get(item.productId)?.category === product.category);
+  const latestCategory = sortedAccountHistory[0]
+    ? productMap.get(sortedAccountHistory[0].productId)?.category
+    : undefined;
 
-  return recentCategoryPosts.length < 2;
+  return latestCategory !== product.category;
 }
 
 function isInsideGap(postedAt: string, now: Date, minGapHours: number): boolean {
