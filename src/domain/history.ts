@@ -9,7 +9,7 @@ export interface PostHistory {
 
 export interface PoolStateItem {
   available: string[];
-  used: string[];
+  disabled: string[];
   lastReset: string | null;
   resetPolicy: "manual" | "monthly";
 }

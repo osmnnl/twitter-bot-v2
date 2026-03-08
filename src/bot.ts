@@ -78,7 +78,10 @@ async function main(): Promise<void> {
 async function runAccount(
   account: PublishingAccount,
   postHistory: PostHistory[],
-  poolState: Record<string, { available: string[]; used: string[]; lastReset: string | null; resetPolicy: "manual" | "monthly" }>,
+  poolState: Record<
+    string,
+    { available: string[]; disabled: string[]; lastReset: string | null; resetPolicy: "manual" | "monthly" }
+  >,
   now: Date,
   dryRun: boolean,
 ): Promise<{ result: AccountRunResult; historyEntry?: PostHistory }> {

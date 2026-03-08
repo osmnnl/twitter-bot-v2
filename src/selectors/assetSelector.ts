@@ -13,6 +13,7 @@ export interface ResolvedAsset {
 export interface ResolveAssetInput {
   asset: ReferralAsset;
   poolState?: PoolState;
+  random?: () => number;
 }
 
 export function hasAvailableAsset(asset: ReferralAsset, poolState: PoolState = {}): boolean {
@@ -37,7 +38,7 @@ export function hasAvailableAsset(asset: ReferralAsset, poolState: PoolState = {
 }
 
 export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
-  const { asset, poolState = {} } = input;
+  const { asset, poolState = {}, random = Math.random } = input;
 
   if (!hasAvailableAsset(asset, poolState)) {
     throw new Error(`No usable asset found for product "${asset.productId}".`);
@@ -83,7 +84,7 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
     return resolvedAsset;
   }
 
-  const selectedCode = poolState[asset.productId]?.available?.[0];
+  const selectedCode = pickRandomAvailableCode(poolState, asset.productId, random);
   if (!selectedCode) {
     throw new Error(`Pool code is missing for product "${asset.productId}".`);
   }
@@ -135,4 +136,18 @@ function normalizeReferralUrl(referralUrl?: string): string | undefined {
 
 function isUsableReferralUrl(referralUrl?: string): boolean {
   return Boolean(normalizeReferralUrl(referralUrl));
+}
+
+function pickRandomAvailableCode(
+  poolState: PoolState,
+  productId: string,
+  random: () => number,
+): string | undefined {
+  const availableCodes = poolState[productId]?.available ?? [];
+  if (availableCodes.length === 0) {
+    return undefined;
+  }
+
+  const randomIndex = Math.floor(random() * availableCodes.length);
+  return availableCodes[randomIndex];
 }
