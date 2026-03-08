@@ -1,5 +1,21 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2030456142640378079",
+    "textHash": "c8522c0be08a08515b3c053a1753bd11",
+    "postedAt": "2026-03-08T01:30:39.255Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2030456137158426802",
+    "textHash": "f8592851f6a39d140a12c56a94ead256",
+    "postedAt": "2026-03-08T01:30:39.255Z"
+  },
+  {
     "productId": "enpara-bireysel",
     "assetId": "enpara-bireysel-link",
     "accountId": "account2",
