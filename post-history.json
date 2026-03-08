@@ -1,5 +1,21 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2030507792159609341",
+    "textHash": "901d8afc3887b51c35f753d46ce6644e",
+    "postedAt": "2026-03-08T04:46:53.960Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2030507786174362054",
+    "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
+    "postedAt": "2026-03-08T04:46:53.960Z"
+  },
+  {
     "productId": "turknet",
     "assetId": "turknet-SQM64SQ15QPA",
     "accountId": "account1",
