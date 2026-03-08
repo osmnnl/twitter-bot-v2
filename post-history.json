@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2030452405146370482",
+    "textHash": "3bcc99fc13decb1e52fafeefac9e8880",
+    "postedAt": "2026-03-08T01:15:49.161Z"
+  },
+  {
+    "productId": "vodafone-ilk-hattim",
+    "assetId": "vodafone-ilk-hattim-fixed",
+    "accountId": "account1",
+    "tweetId": "2030452399949631968",
+    "textHash": "06221b672e798ba68b3aa453b163bc4b",
+    "postedAt": "2026-03-08T01:15:49.161Z"
+  }
+]
