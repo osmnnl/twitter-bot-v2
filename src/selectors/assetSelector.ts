@@ -21,11 +21,11 @@ export function hasAvailableAsset(asset: ReferralAsset, poolState: PoolState = {
   }
 
   if (asset.assetType === "link_only") {
-    return Boolean(asset.referralUrl);
+    return isUsableReferralUrl(asset.referralUrl);
   }
 
   if (asset.assetType === "fixed_code") {
-    return Boolean(asset.code || asset.referralUrl);
+    return Boolean(asset.code || isUsableReferralUrl(asset.referralUrl));
   }
 
   if (asset.assetType === "rotating_code" || asset.assetType === "templated_link") {
@@ -44,24 +44,26 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
   }
 
   if (asset.assetType === "link_only") {
+    const referralUrl = normalizeReferralUrl(asset.referralUrl);
     const resolvedAsset: ResolvedAsset = {
       assetId: `${asset.productId}-link`,
       productId: asset.productId,
       assetType: asset.assetType,
-      assetText: `Link: ${asset.referralUrl}`,
+      assetText: referralUrl ? `Davet Linki: ${referralUrl}` : "",
     };
 
-    if (asset.referralUrl) {
-      resolvedAsset.referralUrl = asset.referralUrl;
+    if (referralUrl) {
+      resolvedAsset.referralUrl = referralUrl;
     }
 
     return resolvedAsset;
   }
 
   if (asset.assetType === "fixed_code") {
-    const parts = [asset.code ? `Kod: ${asset.code}` : "", asset.referralUrl ? `Link: ${asset.referralUrl}` : ""]
+    const referralUrl = normalizeReferralUrl(asset.referralUrl);
+    const parts = [asset.code ? `Davet Kodu: ${asset.code}` : "", referralUrl ? `Davet Linki: ${referralUrl}` : ""]
       .filter(Boolean)
-      .join(" | ");
+      .join("\n");
 
     const resolvedAsset: ResolvedAsset = {
       assetId: `${asset.productId}-fixed`,
@@ -74,8 +76,8 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
       resolvedAsset.code = asset.code;
     }
 
-    if (asset.referralUrl) {
-      resolvedAsset.referralUrl = asset.referralUrl;
+    if (referralUrl) {
+      resolvedAsset.referralUrl = referralUrl;
     }
 
     return resolvedAsset;
@@ -97,7 +99,7 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
       assetId: `${asset.productId}-${selectedCode}`,
       productId: asset.productId,
       assetType: asset.assetType,
-      assetText: `Kod: ${selectedCode} | Link: ${referralUrl}`,
+      assetText: `Davet Kodu: ${selectedCode}\nDavet Linki: ${referralUrl}`,
       code: selectedCode,
       referralUrl,
     };
@@ -107,7 +109,28 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
     assetId: `${asset.productId}-${selectedCode}`,
     productId: asset.productId,
     assetType: asset.assetType,
-    assetText: `Kod: ${selectedCode}`,
+    assetText: `Davet Kodu: ${selectedCode}`,
     code: selectedCode,
   };
+}
+
+function normalizeReferralUrl(referralUrl?: string): string | undefined {
+  if (!referralUrl) {
+    return undefined;
+  }
+
+  const trimmed = referralUrl.trim();
+  if (!trimmed.startsWith("http://") && !trimmed.startsWith("https://")) {
+    return undefined;
+  }
+
+  if (trimmed.includes("...")) {
+    return undefined;
+  }
+
+  return trimmed;
+}
+
+function isUsableReferralUrl(referralUrl?: string): boolean {
+  return Boolean(normalizeReferralUrl(referralUrl));
 }

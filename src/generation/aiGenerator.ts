@@ -7,6 +7,8 @@ export interface GenerateTweetInput {
   brand: string;
   campaign: Campaign;
   assetText: string;
+  code?: string;
+  referralUrl?: string;
   recentTweets?: string[];
   maxAttempts?: number;
   modelName?: string;
@@ -69,6 +71,13 @@ export function buildTweetPrompt(input: GenerateTweetInput): string {
     "- Do not end with a cut-off sentence.",
     "- Keep the tweet concise, natural, and non-spammy.",
     "- Make the tone different from recent tweets when possible.",
+    "- Use this exact block order:",
+    "  1. Brand name",
+    "  2. If available: Davet Kodu: ...",
+    "  3. If available: Davet Linki: ...",
+    "  4. One short promotional paragraph about the campaign",
+    "  5. Hashtags on the last line",
+    "- Do not include invalid or placeholder links.",
     "",
     `Brand: ${input.brand}`,
     `Bonus: ${input.campaign.bonus}`,
@@ -76,6 +85,8 @@ export function buildTweetPrompt(input: GenerateTweetInput): string {
     `Price highlight: ${input.campaign.priceHighlight}`,
     `Text strategy: ${input.campaign.textStrategy}`,
     `Asset text: ${input.assetText}`,
+    `Invite code: ${input.code ?? "N/A"}`,
+    `Invite link: ${input.referralUrl ?? "N/A"}`,
     `Suggested hashtags: ${input.campaign.hashtags.join(", ")}`,
     "",
     "Recent tweets:",

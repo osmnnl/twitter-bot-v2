@@ -4,45 +4,60 @@ import { validateTweetLength } from "./duplicateGuard.js";
 export interface TemplateFallbackInput {
   brand: string;
   campaign: Campaign;
-  assetText: string;
+  assetText?: string;
+  code?: string;
+  referralUrl?: string;
   extraHashtags?: string[];
 }
 
 export function buildTemplateFallbackTweet(input: TemplateFallbackInput): string {
-  const sentences = [
-    `${input.brand} kampanyasinda ${input.campaign.bonus} firsati var.`,
-    input.campaign.priceHighlight
-      ? `One cikan detay: ${input.campaign.priceHighlight}.`
-      : "",
-    `${input.assetText}.`,
-  ].filter(Boolean);
-
   const hashtags = uniqueHashtags([
     ...input.campaign.hashtags,
     ...(input.extraHashtags ?? []),
   ]);
 
-  const textWithoutHashtags = fitSentencesWithinLimit(sentences, "");
+  const headerLines = [
+    input.brand,
+    input.code ? `Davet Kodu: ${input.code}` : "",
+    input.referralUrl ? `Davet Linki: ${input.referralUrl}` : "",
+  ].filter(Boolean);
+
+  const detailSentences = [
+    buildCampaignDetail(input.campaign),
+  ].filter(Boolean);
+
+  const textWithoutHashtags = fitStructuredContentWithinLimit(
+    headerLines,
+    detailSentences,
+    "",
+  );
   const hashtagBlock = fitHashtagsWithinLimit(textWithoutHashtags, hashtags);
 
   return [textWithoutHashtags, hashtagBlock].filter(Boolean).join("\n");
 }
 
-function fitSentencesWithinLimit(sentences: string[], hashtags: string): string {
-  let current = "";
+function fitStructuredContentWithinLimit(
+  headerLines: string[],
+  detailSentences: string[],
+  hashtags: string,
+): string {
+  const stableHeader = headerLines.join("\n");
+  let details = "";
 
-  for (const sentence of sentences) {
-    const next = current === "" ? sentence : `${current} ${sentence}`;
-    const candidate = [next, hashtags].filter(Boolean).join("\n");
+  for (const sentence of detailSentences) {
+    const nextDetails = details === "" ? sentence : `${details} ${sentence}`;
+    const candidate = [stableHeader, nextDetails, hashtags]
+      .filter(Boolean)
+      .join("\n\n");
 
     if (!validateTweetLength(candidate)) {
       break;
     }
 
-    current = next;
+    details = nextDetails;
   }
 
-  return current;
+  return [stableHeader, details].filter(Boolean).join("\n\n");
 }
 
 function fitHashtagsWithinLimit(baseText: string, hashtags: string[]): string {
@@ -80,4 +95,17 @@ function uniqueHashtags(hashtags: string[]): string[] {
   }
 
   return normalized;
+}
+
+function buildCampaignDetail(campaign: Campaign): string {
+  const parts = [
+    campaign.bonus,
+    campaign.priceHighlight,
+    campaign.packageDetail,
+  ]
+    .map((item) => item.trim())
+    .filter(Boolean);
+
+  const uniqueParts = Array.from(new Set(parts));
+  return uniqueParts.join(". ");
 }

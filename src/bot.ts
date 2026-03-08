@@ -126,7 +126,7 @@ async function runAccount(
     const { tweetText, usedAi } = await generateTweetText(
       selected.product.brand,
       selected.campaign,
-      resolvedAsset.assetText,
+      resolvedAsset,
       postHistory,
     );
     phase = "generated-text";
@@ -188,7 +188,11 @@ async function runAccount(
 async function generateTweetText(
   brand: string,
   campaign: Campaign,
-  assetText: string,
+  resolvedAsset: {
+    assetText: string;
+    code?: string;
+    referralUrl?: string;
+  },
   postHistory: PostHistory[],
 ): Promise<{ tweetText: string; usedAi: boolean }> {
   const recentHistory = postHistory.slice(0, 20);
@@ -197,12 +201,22 @@ async function generateTweetText(
   if (env.geminiApiKey()) {
     try {
       const generator = new AiGenerator();
-      const generated = await generator.generateTweet({
+      const aiInput = {
         brand,
         campaign,
-        assetText,
+        assetText: resolvedAsset.assetText,
         maxAttempts: 2,
-      });
+      } as const;
+
+      if (resolvedAsset.code) {
+        Object.assign(aiInput, { code: resolvedAsset.code });
+      }
+
+      if (resolvedAsset.referralUrl) {
+        Object.assign(aiInput, { referralUrl: resolvedAsset.referralUrl });
+      }
+
+      const generated = await generator.generateTweet(aiInput);
 
       const duplicateCheck = checkDuplicateCandidate({
         text: generated.text,
@@ -220,11 +234,21 @@ async function generateTweetText(
     }
   }
 
-  const fallbackText = buildTemplateFallbackTweet({
+  const fallbackInput = {
     brand,
     campaign,
-    assetText,
-  });
+    assetText: resolvedAsset.assetText,
+  } as const;
+
+  if (resolvedAsset.code) {
+    Object.assign(fallbackInput, { code: resolvedAsset.code });
+  }
+
+  if (resolvedAsset.referralUrl) {
+    Object.assign(fallbackInput, { referralUrl: resolvedAsset.referralUrl });
+  }
+
+  const fallbackText = buildTemplateFallbackTweet(fallbackInput);
 
   if (!validateTweetLength(fallbackText)) {
     throw new Error("Fallback tweet exceeded Twitter character limit.");
