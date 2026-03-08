@@ -1,5 +1,21 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2030648648695263594",
+    "textHash": "54b0ca70ce7c56489212c6cbabe57609",
+    "postedAt": "2026-03-08T14:15:36.770Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2030648644047880358",
+    "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
+    "postedAt": "2026-03-08T14:15:36.770Z"
+  },
+  {
     "productId": "turknet",
     "assetId": "turknet-WJX59LQ66UXS",
     "accountId": "account1",
