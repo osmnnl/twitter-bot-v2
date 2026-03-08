@@ -1,5 +1,21 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2030655983714713919",
+    "textHash": "901d8afc3887b51c35f753d46ce6644e",
+    "postedAt": "2026-03-08T14:29:45.961Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2030655978727723376",
+    "textHash": "8b2d1e0d0b292b89a4f480e3bfae3e65",
+    "postedAt": "2026-03-08T14:29:45.961Z"
+  },
+  {
     "productId": "akbank",
     "assetId": "akbank-fixed",
     "accountId": "account2",
