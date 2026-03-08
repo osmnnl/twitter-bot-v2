@@ -1,5 +1,13 @@
 [
   {
+    "productId": "turknet",
+    "assetId": "turknet-SQM64SQ15QPA",
+    "accountId": "account1",
+    "tweetId": "2030473451891282229",
+    "textHash": "52784f2783cd7ca32b3f45c0ed094b99",
+    "postedAt": "2026-03-08T02:35:28.453Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
