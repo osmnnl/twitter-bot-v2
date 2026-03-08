@@ -39,6 +39,7 @@ export class RepoStateAdapter implements HistoryStore {
   private readonly authorEmail: string;
   private readonly cloneSource: string | undefined;
   private readonly pushChanges: boolean;
+  private readonly githubToken: string | undefined;
 
   constructor(options: RepoStateAdapterOptions = {}) {
     this.repoDir = path.resolve(options.repoDir ?? process.cwd());
@@ -54,6 +55,7 @@ export class RepoStateAdapter implements HistoryStore {
       ? path.resolve(this.repoDir, options.cloneSource)
       : undefined;
     this.pushChanges = options.pushChanges ?? true;
+    this.githubToken = process.env.GITHUB_TOKEN || undefined;
   }
 
   async read(): Promise<StateSnapshot> {
@@ -128,6 +130,7 @@ export class RepoStateAdapter implements HistoryStore {
     try {
       const cloneSource = await this.getCloneSource();
       await this.runGit(["clone", "--quiet", cloneSource, workspace], this.repoDir);
+      await this.configureAuthenticatedRemote(workspace);
 
       const branchStatus = await this.getBranchStatus(workspace);
       if (branchStatus.remote) {
@@ -186,6 +189,42 @@ export class RepoStateAdapter implements HistoryStore {
     } catch {
       return this.repoDir;
     }
+  }
+
+  private async configureAuthenticatedRemote(workspace: string): Promise<void> {
+    if (!this.githubToken || this.cloneSource) {
+      return;
+    }
+
+    try {
+      const { stdout } = await this.runGit(["remote", "get-url", this.remoteName], workspace);
+      const remoteUrl = stdout.trim();
+      const authenticatedUrl = this.withGithubToken(remoteUrl);
+
+      if (!authenticatedUrl || authenticatedUrl === remoteUrl) {
+        return;
+      }
+
+      await this.runGit(["remote", "set-url", this.remoteName, authenticatedUrl], workspace);
+    } catch {
+      // Best effort only; if this fails, git will surface the auth issue on push.
+    }
+  }
+
+  private withGithubToken(remoteUrl: string): string | null {
+    if (!this.githubToken) {
+      return null;
+    }
+
+    if (!remoteUrl.startsWith("https://github.com/")) {
+      return null;
+    }
+
+    const encodedToken = encodeURIComponent(this.githubToken);
+    return remoteUrl.replace(
+      "https://github.com/",
+      `https://x-access-token:${encodedToken}@github.com/`,
+    );
   }
 
   private async getBranchStatus(workspace: string): Promise<BranchStatus> {

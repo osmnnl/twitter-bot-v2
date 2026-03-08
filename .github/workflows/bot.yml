@@ -57,6 +57,7 @@ jobs:
       - name: Run bot
         run: npm run start
         env:
+          GITHUB_TOKEN: ${{ github.token }}
           STATE_BRANCH: state
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TWITTER_1_APP_KEY: ${{ secrets.TWITTER_1_APP_KEY }}
