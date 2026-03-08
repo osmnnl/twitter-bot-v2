@@ -89,7 +89,9 @@ export function resolveAsset(input: ResolveAssetInput): ResolvedAsset {
   }
 
   if (asset.assetType === "templated_link") {
-    const referralUrl = asset.urlTemplate?.replace("[CODE]", selectedCode);
+    const referralUrl = asset.urlTemplate
+      ?.replace("[CODE]", selectedCode)
+      .replace("[KOD]", selectedCode);
 
     if (!referralUrl) {
       throw new Error(`Template link is missing for product "${asset.productId}".`);
