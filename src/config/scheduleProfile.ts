@@ -1,10 +1,10 @@
 import type { ScheduleProfile } from "../domain/schedule.js";
 
 export const defaultScheduleProfile: ScheduleProfile = {
-  targetPostsPerDay: 24,
+  targetPostsPerDay: 12,
   allowedHours: Array.from({ length: 24 }, (_, index) => index),
   minGapHours: 2,
-  randomDelayMinutes: 59,
+  randomDelayMinutes: 119,
 };
 
 export function isAllowedHour(profile: ScheduleProfile, now = new Date()): boolean {

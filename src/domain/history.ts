@@ -4,6 +4,7 @@ export interface PostHistory {
   accountId: string;
   tweetId: string;
   textHash: string;
+  tweetText?: string;
   postedAt: string;
 }
 

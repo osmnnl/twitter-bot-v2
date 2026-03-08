@@ -25,6 +25,7 @@ export interface Product {
   id: string;
   brand: string;
   category: ProductCategory;
+  searchAliases?: string[];
   color: string;
   imagePath: string;
   weight: number;

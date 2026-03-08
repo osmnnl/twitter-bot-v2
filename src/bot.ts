@@ -3,7 +3,7 @@ import { calculateRandomDelayMs, isAllowedHour } from "./config/scheduleProfile.
 import { accounts } from "./data/accounts.js";
 import type { PublishingAccount } from "./domain/account.js";
 import type { PostHistory } from "./domain/history.js";
-import type { Campaign } from "./domain/product.js";
+import type { Campaign, Product } from "./domain/product.js";
 import { ApiResponseError } from "twitter-api-v2";
 import { AiGenerator } from "./generation/aiGenerator.js";
 import {
@@ -32,6 +32,7 @@ type AccountRunResult = {
 async function main(): Promise<void> {
   const now = new Date();
   const dryRun = env.botDryRun();
+  const enabledAccounts = accounts.filter((account) => account.enabled !== false);
 
   await applyStartupJitter(dryRun);
 
@@ -43,7 +44,7 @@ async function main(): Promise<void> {
   const results: AccountRunResult[] = [];
   let hasPersistedChanges = false;
 
-  for (const account of accounts) {
+  for (const account of enabledAccounts) {
     const result = await runAccount(account, snapshot.postHistory, snapshot.poolState, now, dryRun);
     results.push(result.result);
 
@@ -127,7 +128,7 @@ async function runAccount(
     phase = "resolved-asset";
 
     const { tweetText, usedAi } = await generateTweetText(
-      selected.product.brand,
+      selected.product,
       selected.campaign,
       resolvedAsset,
       postHistory,
@@ -155,6 +156,7 @@ async function runAccount(
       accountId: account.accountId,
       tweetId: publishResult.tweetId,
       textHash: hashTweetText(tweetText),
+      tweetText,
       postedAt: now.toISOString(),
     };
 
@@ -189,7 +191,7 @@ async function runAccount(
 }
 
 async function generateTweetText(
-  brand: string,
+  product: Product,
   campaign: Campaign,
   resolvedAsset: {
     assetText: string;
@@ -200,14 +202,18 @@ async function generateTweetText(
 ): Promise<{ tweetText: string; usedAi: boolean }> {
   const recentHistory = postHistory.slice(0, 20);
   const recentHashes = recentHistory.map((item) => item.textHash);
+  const recentTexts = recentHistory
+    .map((item) => item.tweetText)
+    .filter((value): value is string => Boolean(value));
 
   if (env.geminiApiKey()) {
     try {
       const generator = new AiGenerator();
       const aiInput = {
-        brand,
+        product,
         campaign,
         assetText: resolvedAsset.assetText,
+        recentTweets: recentTexts,
         maxAttempts: 2,
       } as const;
 
@@ -224,6 +230,7 @@ async function generateTweetText(
       const duplicateCheck = checkDuplicateCandidate({
         text: generated.text,
         recentHashes,
+        recentTexts,
       });
 
       if (!duplicateCheck.requiresRewrite && validateTweetLength(generated.text)) {
@@ -238,7 +245,7 @@ async function generateTweetText(
   }
 
   const fallbackInput = {
-    brand,
+    product,
     campaign,
     assetText: resolvedAsset.assetText,
   } as const;
@@ -251,7 +258,25 @@ async function generateTweetText(
     Object.assign(fallbackInput, { referralUrl: resolvedAsset.referralUrl });
   }
 
-  const fallbackText = buildTemplateFallbackTweet(fallbackInput);
+  let fallbackText = "";
+
+  for (let attempt = 0; attempt < 5; attempt += 1) {
+    fallbackText = buildTemplateFallbackTweet(fallbackInput);
+
+    if (!validateTweetLength(fallbackText)) {
+      continue;
+    }
+
+    const duplicateCheck = checkDuplicateCandidate({
+      text: fallbackText,
+      recentHashes,
+      recentTexts,
+    });
+
+    if (!duplicateCheck.requiresRewrite) {
+      break;
+    }
+  }
 
   if (!validateTweetLength(fallbackText)) {
     throw new Error("Fallback tweet exceeded Twitter character limit.");
@@ -268,7 +293,8 @@ async function applyStartupJitter(dryRun: boolean): Promise<void> {
     return;
   }
 
-  const maxRandomDelayMinutes = accounts.reduce((maxMinutes, account) => {
+  const enabledAccounts = accounts.filter((account) => account.enabled !== false);
+  const maxRandomDelayMinutes = enabledAccounts.reduce((maxMinutes, account) => {
     return Math.max(maxMinutes, account.scheduleProfile.randomDelayMinutes);
   }, 0);
 

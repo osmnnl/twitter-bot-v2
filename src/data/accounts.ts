@@ -20,6 +20,7 @@ export const accounts: PublishingAccount[] = [
     accountId: "account3",
     twitterHandle: "@hesap3",
     envPrefix: "TWITTER_3",
+    enabled: false,
     allowedCategories: ["Seyahat", "Yeme & İçme", "Kozmetik", "Bankacılık"],
     scheduleProfile: defaultScheduleProfile,
   },
