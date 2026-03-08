@@ -4,11 +4,10 @@
       "BOC71FY10YAK",
       "SQM64SQ15QPA",
       "WJX59LQ66UXS",
-      "WGQ86MQ42KJA"
-    ],
-    "used": [
+      "WGQ86MQ42KJA",
       "EFY79IX25BIQ"
     ],
+    "disabled": [],
     "lastReset": null,
     "resetPolicy": "manual"
   },
@@ -16,11 +15,10 @@
     "available": [
       "CF14CE31",
       "8390BC38",
-      "55AFC5CC"
-    ],
-    "used": [
+      "55AFC5CC",
       "D9E86991"
     ],
+    "disabled": [],
     "lastReset": null,
     "resetPolicy": "manual"
   }
