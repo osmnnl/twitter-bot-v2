@@ -40,6 +40,7 @@ export class RepoStateAdapter implements HistoryStore {
   private readonly cloneSource: string | undefined;
   private readonly pushChanges: boolean;
   private readonly githubToken: string | undefined;
+  private readonly githubRepository: string | undefined;
 
   constructor(options: RepoStateAdapterOptions = {}) {
     this.repoDir = path.resolve(options.repoDir ?? process.cwd());
@@ -56,6 +57,7 @@ export class RepoStateAdapter implements HistoryStore {
       : undefined;
     this.pushChanges = options.pushChanges ?? true;
     this.githubToken = process.env.GITHUB_TOKEN || undefined;
+    this.githubRepository = process.env.GITHUB_REPOSITORY || undefined;
   }
 
   async read(): Promise<StateSnapshot> {
@@ -181,6 +183,11 @@ export class RepoStateAdapter implements HistoryStore {
       return this.cloneSource;
     }
 
+    const authenticatedRepositoryUrl = this.getAuthenticatedRepositoryUrl();
+    if (authenticatedRepositoryUrl) {
+      return authenticatedRepositoryUrl;
+    }
+
     try {
       const { stdout } = await this.runGit(["remote", "get-url", this.remoteName], this.repoDir);
       const cloneSource = stdout.trim();
@@ -192,16 +199,18 @@ export class RepoStateAdapter implements HistoryStore {
   }
 
   private async configureAuthenticatedRemote(workspace: string): Promise<void> {
-    if (!this.githubToken || this.cloneSource) {
+    if (this.cloneSource) {
       return;
     }
 
     try {
-      const { stdout } = await this.runGit(["remote", "get-url", this.remoteName], workspace);
-      const remoteUrl = stdout.trim();
-      const authenticatedUrl = this.withGithubToken(remoteUrl);
+      const authenticatedUrl =
+        this.getAuthenticatedRepositoryUrl() ??
+        this.withGithubToken(
+          (await this.runGit(["remote", "get-url", this.remoteName], workspace)).stdout.trim(),
+        );
 
-      if (!authenticatedUrl || authenticatedUrl === remoteUrl) {
+      if (!authenticatedUrl) {
         return;
       }
 
@@ -225,6 +234,15 @@ export class RepoStateAdapter implements HistoryStore {
       "https://github.com/",
       `https://x-access-token:${encodedToken}@github.com/`,
     );
+  }
+
+  private getAuthenticatedRepositoryUrl(): string | null {
+    if (!this.githubToken || !this.githubRepository) {
+      return null;
+    }
+
+    const encodedToken = encodeURIComponent(this.githubToken);
+    return `https://x-access-token:${encodedToken}@github.com/${this.githubRepository}.git`;
   }
 
   private async getBranchStatus(workspace: string): Promise<BranchStatus> {
