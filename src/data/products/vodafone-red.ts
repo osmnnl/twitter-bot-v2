@@ -6,6 +6,6 @@ export const product: Product = {
   category: "Mobil Operatör",
   color: "#B00020",
   imagePath: "assets/images/vodafone-red.png",
-  weight: 8,
+  weight: 2,
   active: true
 };

@@ -6,6 +6,6 @@ export const product: Product = {
   category: "Ev İnterneti",
   color: "#C62828",
   imagePath: "assets/images/vodafone-ev-internet.png",
-  weight: 7,
+  weight: 4,
   active: true
 };

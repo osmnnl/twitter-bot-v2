@@ -6,6 +6,6 @@ export const product: Product = {
   category: "Mobil Operatör",
   color: "#FF1744",
   imagePath: "assets/images/vodafone-ilk-hattim.png",
-  weight: 6,
+  weight: 2,
   active: true
 };

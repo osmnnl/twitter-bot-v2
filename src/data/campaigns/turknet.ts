@@ -5,10 +5,10 @@ export const campaign: Campaign = {
   bonus: "1 Ay Ücretsiz İnternet",
   packageDetail: "TurkNet davet sistemiyle internet aboneliğinde 1 ay ücretsiz kullanım fırsatı.",
   priceHighlight: "1 Ay Ücretsiz",
-  textStrategy: "Fiber kullanıcılarına net fırsat diliyle yaklaş.",
+  textStrategy: "İlk ay bedava fiber internet.",
   hashtags: [
     "#TurkNet",
-    "#FiberInternet"
+    "#ArkadasiniGetir"
   ],
   imagePath: "assets/images/turknet.png",
   altText: "TurkNet kampanya görseli",

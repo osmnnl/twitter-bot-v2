@@ -6,6 +6,6 @@ export const product: Product = {
   category: "Mobil Operatör",
   color: "#D50000",
   imagePath: "assets/images/vodafone-freezone.png",
-  weight: 7,
+  weight: 2,
   active: true
 };
