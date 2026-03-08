@@ -1,1 +1,27 @@
-{}
+{
+  "turknet": {
+    "available": [
+      "BOC71FY10YAK",
+      "SQM64SQ15QPA",
+      "WJX59LQ66UXS",
+      "WGQ86MQ42KJA"
+    ],
+    "used": [
+      "EFY79IX25BIQ"
+    ],
+    "lastReset": null,
+    "resetPolicy": "manual"
+  },
+  "pegasus": {
+    "available": [
+      "CF14CE31",
+      "8390BC38",
+      "55AFC5CC"
+    ],
+    "used": [
+      "D9E86991"
+    ],
+    "lastReset": null,
+    "resetPolicy": "manual"
+  }
+}
