@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2030770680174690733",
+    "textHash": "74a90811885d92cbfb0826328664550f",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara #Akbank",
+    "postedAt": "2026-03-08T20:34:01.978Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2030770628043604465",
+    "textHash": "75db7dbe90217bdee0076af962584a4b",
+    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan.\n#Tarife #Vodafone",
+    "postedAt": "2026-03-08T20:34:01.978Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
