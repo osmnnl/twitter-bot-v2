@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2030698114588533247",
+    "textHash": "a977e24d3a7e19da2f4478bdcfe0edfa",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan kazanmak için bu davet kodunu kullan. Bu banka kampanyası sana referans kodu veya referans linki ile büyük bir fırsat sunuyor.\n#IsBankasi #MaxiPuan",
+    "postedAt": "2026-03-08T16:36:32.924Z"
+  },
+  {
+    "productId": "vodafone-freezone",
+    "assetId": "vodafone-freezone-fixed",
+    "accountId": "account1",
+    "tweetId": "2030698045046997031",
+    "textHash": "4abf0d1f299ad3bbcf4f590190982fb5",
+    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat/numara taşımada, bu davet kodu ile 30 GB + 3 Ay Dijital Platform hediyesi kazan. Bu kampanya, internet ve platform avantajı büyük bir fırsat.\n#FreeZone #Vodafone",
+    "postedAt": "2026-03-08T16:36:32.924Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
