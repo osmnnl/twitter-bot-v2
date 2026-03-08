@@ -2,6 +2,17 @@ name: Twitter Bot
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without posting to X"
+        required: true
+        type: boolean
+        default: true
+      disable_jitter:
+        description: "Skip startup jitter delay"
+        required: true
+        type: boolean
+        default: true
   schedule:
     - cron: "0 * * * *"
 
@@ -33,11 +44,19 @@ jobs:
       - name: Type check
         run: npm run check
 
+      - name: Resolve runtime mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "BOT_DRY_RUN=${{ inputs.dry_run }}" >> "$GITHUB_ENV"
+            echo "BOT_DISABLE_JITTER=${{ inputs.disable_jitter }}" >> "$GITHUB_ENV"
+          else
+            echo "BOT_DRY_RUN=false" >> "$GITHUB_ENV"
+            echo "BOT_DISABLE_JITTER=false" >> "$GITHUB_ENV"
+          fi
+
       - name: Run bot
         run: npm run start
         env:
-          BOT_DRY_RUN: "false"
-          BOT_DISABLE_JITTER: "false"
           STATE_BRANCH: state
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TWITTER_1_APP_KEY: ${{ secrets.TWITTER_1_APP_KEY }}
