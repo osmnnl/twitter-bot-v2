@@ -4,6 +4,7 @@ import { accounts } from "./data/accounts.js";
 import type { PublishingAccount } from "./domain/account.js";
 import type { PostHistory } from "./domain/history.js";
 import type { Campaign } from "./domain/product.js";
+import { ApiResponseError } from "twitter-api-v2";
 import { AiGenerator } from "./generation/aiGenerator.js";
 import {
   checkDuplicateCandidate,
@@ -81,6 +82,9 @@ async function runAccount(
   now: Date,
   dryRun: boolean,
 ): Promise<{ result: AccountRunResult; historyEntry?: PostHistory }> {
+  let phase = "select";
+  let selectedProductId: string | undefined;
+
   try {
     if (!isAllowedHour(account.scheduleProfile, now)) {
       return {
@@ -99,6 +103,7 @@ async function runAccount(
       poolState,
       now,
     });
+    phase = "selected";
 
     if (!selected) {
       return {
@@ -111,10 +116,12 @@ async function runAccount(
       };
     }
 
+    selectedProductId = selected.product.id;
     const resolvedAsset = resolveAsset({
       asset: selected.asset,
       poolState,
     });
+    phase = "resolved-asset";
 
     const { tweetText, usedAi } = await generateTweetText(
       selected.product.brand,
@@ -122,6 +129,7 @@ async function runAccount(
       resolvedAsset.assetText,
       postHistory,
     );
+    phase = "generated-text";
 
     const publisher = TwitterPublisher.fromEnvPrefix(account.envPrefix, false);
     const mediaHandler = new MediaHandler(publisher);
@@ -130,11 +138,13 @@ async function runAccount(
       altText: selected.campaign.altText,
       mediaRequired: selected.campaign.mediaRequired,
     });
+    phase = "uploaded-media";
 
     const publishResult = await publisher.publishTweet({
       text: tweetText,
       mediaIds: mediaUpload.mediaId ? [mediaUpload.mediaId] : [],
     });
+    phase = "published";
 
     const historyEntry: PostHistory = {
       productId: selected.product.id,
@@ -158,13 +168,19 @@ async function runAccount(
       historyEntry,
     };
   } catch (error) {
+    const result: AccountRunResult = {
+      accountId: account.accountId,
+      dryRun,
+      status: "error",
+      reason: formatRunError(error, phase),
+    };
+
+    if (selectedProductId) {
+      result.productId = selectedProductId;
+    }
+
     return {
-      result: {
-        accountId: account.accountId,
-        dryRun,
-        status: "error",
-        reason: error instanceof Error ? error.message : String(error),
-      },
+      result,
     };
   }
 }
@@ -245,6 +261,35 @@ async function applyStartupJitter(dryRun: boolean): Promise<void> {
 
 async function sleep(ms: number): Promise<void> {
   await new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function formatRunError(error: unknown, phase: string): string {
+  if (error instanceof ApiResponseError) {
+    const apiErrors = Array.isArray(error.errors)
+      ? error.errors
+          .map((item) => {
+            const code = "code" in item ? String(item.code) : "unknown";
+            const message = "message" in item ? String(item.message) : JSON.stringify(item);
+            return `${code}:${message}`;
+          })
+          .join(", ")
+      : "";
+
+    const apiDetail =
+      typeof error.data === "object" && error.data !== null
+        ? JSON.stringify(error.data)
+        : String(error.data);
+
+    return [`phase=${phase}`, `http=${error.code}`, apiErrors && `apiErrors=${apiErrors}`, `data=${apiDetail}`]
+      .filter(Boolean)
+      .join(" | ");
+  }
+
+  if (error instanceof Error) {
+    return `phase=${phase} | ${error.message}`;
+  }
+
+  return `phase=${phase} | ${String(error)}`;
 }
 
 main().catch((error: unknown) => {
