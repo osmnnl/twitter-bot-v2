@@ -1,5 +1,13 @@
 [
   {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2030522161824202840",
+    "textHash": "8b2d1e0d0b292b89a4f480e3bfae3e65",
+    "postedAt": "2026-03-08T05:48:01.283Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
