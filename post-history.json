@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2031037769007481196",
+    "textHash": "6b3d12d76db7cca215ba1df71056c34b",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Bu banka kampanyası sana referans kodu fırsatı ve 1.000 TL avantaj sağlar.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-09T15:14:05.894Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2031037729190875384",
+    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
+    "postedAt": "2026-03-09T15:14:05.894Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
