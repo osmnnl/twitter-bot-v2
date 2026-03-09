@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2031077730989584737",
+    "textHash": "84ea8af8c46148eeb58689fc5d2ac98c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
+    "postedAt": "2026-03-09T17:00:54.538Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WGQ86MQ42KJA",
+    "accountId": "account1",
+    "tweetId": "2031077681576513770",
+    "textHash": "aa2a91b3b2f13e1e54685e3035e6a92d",
+    "tweetText": "Turk Net\nDavet Kodu: WGQ86MQ42KJA\nDavet Linki: https://turk.net/?p=WGQ86MQ42KJA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
+    "postedAt": "2026-03-09T17:00:54.538Z"
+  },
+  {
     "productId": "garanti-bbva",
     "assetId": "garanti-bbva-fixed",
     "accountId": "account2",
