@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2030961417604510154",
+    "textHash": "b89913d143fb2f75b9ec0ab4d8948b62",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara",
+    "postedAt": "2026-03-09T10:52:42.212Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2030961372494774414",
+    "textHash": "f1e1cf822ab50ce8425d286c30c67564",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan. Ev interneti kampanyası arayanlar için 500 TL Hepsiburada Çeki fırsatı burada.",
+    "postedAt": "2026-03-09T10:52:42.212Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
