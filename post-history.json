@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2030837706213949596",
+    "textHash": "f36a790655821dff73da3501db9a8996",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Şirket sahiplerine özel bu banka kampanyası sana büyük bir fırsat ve avantaj sunar.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-09T02:41:02.737Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2030837662790365471",
+    "textHash": "0c6672bcf87dc179f67212a6525828d6",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ne başvururken 500 TL Hepsiburada Çeki hediye kazanmak için bu davet kodunu kullan. Ev interneti kampanyası için referans linki sana büyük bir avantaj ve fırsat sağlar.",
+    "postedAt": "2026-03-09T02:41:02.737Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
