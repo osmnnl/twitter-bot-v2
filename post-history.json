@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2031252867005268258",
+    "textHash": "d647ae06463d2ea6985495d8f40709a1",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kampanya avantajı için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#GarantiBBVA",
+    "postedAt": "2026-03-10T05:12:42.004Z"
+  },
+  {
+    "productId": "vodafone-freezone",
+    "assetId": "vodafone-freezone-fixed",
+    "accountId": "account1",
+    "tweetId": "2031252840845369585",
+    "textHash": "ff9a6092102bd4d85cf11c23b32eace5",
+    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform hediyesi almak için bu davet kodunu kullan.\n#Vodafone #FreeZone",
+    "postedAt": "2026-03-10T05:12:42.004Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
