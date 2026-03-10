@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2031435552461914294",
+    "textHash": "3f2fd78e7bdfa2c57d1d20b10d4882cd",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül müşteri ol kampanya avantajı almak için bu referans linkini kullan.\n#Sirketim #Enpara",
+    "postedAt": "2026-03-10T17:00:02.140Z"
+  },
+  {
+    "productId": "vodafone-ilk-hattim",
+    "assetId": "vodafone-ilk-hattim-fixed",
+    "accountId": "account1",
+    "tweetId": "2031435504005038193",
+    "textHash": "21de8ccabebfcf0b0a9d8f05ee6187e6",
+    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye kampanya avantajı için bu davet kodunu kullan.\n#IlkHattim #Vodafone",
+    "postedAt": "2026-03-10T17:00:02.140Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
