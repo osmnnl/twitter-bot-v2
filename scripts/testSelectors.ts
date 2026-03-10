@@ -10,7 +10,11 @@ type TestResult = {
 };
 
 function assert(condition: boolean, name: string, details?: string): TestResult {
-  return condition ? { name, ok: true } : { name, ok: false, details };
+  if (condition) {
+    return { name, ok: true };
+  }
+
+  return details ? { name, ok: false, details } : { name, ok: false };
 }
 
 const productIds = new Set(products.map((product) => product.id));

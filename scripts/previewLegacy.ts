@@ -14,7 +14,10 @@ function parseArgs(): PreviewOptions {
     if (arg.startsWith("--count=")) {
       options.count = Number(arg.split("=")[1] ?? "2");
     } else if (arg.startsWith("--product=")) {
-      options.productId = arg.split("=")[1];
+      const value = arg.split("=")[1];
+      if (value) {
+        options.productId = value;
+      }
     }
   }
 
@@ -73,18 +76,18 @@ targetProducts.forEach((product, index) => {
     const parts = buildLegacyTweetParts({
       product,
       campaign,
-      code: code === "" ? undefined : code,
       referralUrl: link,
       random,
+      ...(code === "" ? {} : { code }),
     });
 
     const body = buildLegacyFallbackBody(
       {
         product,
         campaign,
-        code: code === "" ? undefined : code,
         referralUrl: link,
         random,
+        ...(code === "" ? {} : { code }),
       },
       parts.maxBodyChars,
     );

@@ -10,7 +10,11 @@ type TestResult = {
 };
 
 function assert(condition: boolean, name: string, details?: string): TestResult {
-  return condition ? { name, ok: true } : { name, ok: false, details };
+  if (condition) {
+    return { name, ok: true };
+  }
+
+  return details ? { name, ok: false, details } : { name, ok: false };
 }
 
 function getCampaign(productId: string) {
@@ -34,16 +38,16 @@ function generateLegacySample(product: Product): string {
   const parts = buildLegacyTweetParts({
     product,
     campaign,
-    code,
-    referralUrl: link,
+    ...(link ? { referralUrl: link } : {}),
+    ...(code ? { code } : {}),
   });
 
   const body = buildLegacyFallbackBody(
     {
       product,
       campaign,
-      code,
-      referralUrl: link,
+      ...(link ? { referralUrl: link } : {}),
+      ...(code ? { code } : {}),
     },
     parts.maxBodyChars,
   );

@@ -308,6 +308,7 @@ async function generateLegacyTweetText(
   },
   postHistory: PostHistory[],
 ): Promise<{ tweetText: string; usedAi: boolean }> {
+  const now = new Date();
   const recentHistory = postHistory.slice(0, 20);
   const recentHashes = recentHistory.map((item) => item.textHash);
   const recentTexts = recentHistory
@@ -318,8 +319,8 @@ async function generateLegacyTweetText(
     product,
     campaign,
     assetText: resolvedAsset.assetText,
-    code: resolvedAsset.code,
-    referralUrl: resolvedAsset.referralUrl,
+    ...(resolvedAsset.code ? { code: resolvedAsset.code } : {}),
+    ...(resolvedAsset.referralUrl ? { referralUrl: resolvedAsset.referralUrl } : {}),
   });
 
   if (env.geminiApiKey()) {
@@ -330,8 +331,8 @@ async function generateLegacyTweetText(
           product,
           campaign,
           assetText: resolvedAsset.assetText,
-          code: resolvedAsset.code,
-          referralUrl: resolvedAsset.referralUrl,
+          ...(resolvedAsset.code ? { code: resolvedAsset.code } : {}),
+          ...(resolvedAsset.referralUrl ? { referralUrl: resolvedAsset.referralUrl } : {}),
         },
         parts.maxBodyChars,
       );
@@ -374,8 +375,8 @@ async function generateLegacyTweetText(
         product,
         campaign,
         assetText: resolvedAsset.assetText,
-        code: resolvedAsset.code,
-        referralUrl: resolvedAsset.referralUrl,
+        ...(resolvedAsset.code ? { code: resolvedAsset.code } : {}),
+        ...(resolvedAsset.referralUrl ? { referralUrl: resolvedAsset.referralUrl } : {}),
       },
       parts.maxBodyChars,
       recentWindow,

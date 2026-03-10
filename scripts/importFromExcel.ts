@@ -112,9 +112,10 @@ async function sheetToRows<T extends Record<string, unknown>>(
   }
 
   const headerRow = worksheet.getRow(1);
-  const headers = headerRow.values
+  const headerValues = Array.isArray(headerRow.values) ? headerRow.values : [];
+  const headers = headerValues
     .slice(1)
-    .map((value) => String(value ?? "").trim());
+    .map((value) => (typeof value === "string" ? value.trim() : String(value ?? "").trim()));
 
   const rows: T[] = [];
 
@@ -124,7 +125,7 @@ async function sheetToRows<T extends Record<string, unknown>>(
     }
 
     const record: Record<string, unknown> = {};
-    headers.forEach((header, index) => {
+    headers.forEach((header: string, index: number) => {
       if (!header) {
         return;
       }
@@ -133,7 +134,7 @@ async function sheetToRows<T extends Record<string, unknown>>(
       const value = cell.value;
 
       if (typeof value === "object" && value !== null && "text" in value) {
-        record[header] = String((value as { text?: string }).text ?? "").trim();
+        record[header] = typeof value.text === "string" ? value.text.trim() : String(value.text ?? "").trim();
         return;
       }
 
