@@ -68,6 +68,11 @@ const CATEGORY_SEARCH_CONTEXTS: Record<ProductCategory, SearchContext> = {
     searchTopic: "kozmetik kampanyası",
     benefitHint: "indirim avantajı",
   },
+  "Dijital Ürün": {
+    actionPhrase: "abonelik veya lisans alırken",
+    searchTopic: "ikon kütüphanesi kampanyası",
+    benefitHint: "lisans ve gelir avantajı",
+  },
 };
 
 export interface SearchCopyGuidance {

@@ -44,6 +44,18 @@ jobs:
       - name: Type check
         run: npm run check
 
+      - name: Preflight checks
+        run: npm run preflight
+
+      - name: Selector tests
+        run: npm run test:selectors
+
+      - name: Legacy tests
+        run: npm run test:legacy
+
+      - name: State adapter tests
+        run: npm run test:state
+
       - name: Resolve runtime mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then

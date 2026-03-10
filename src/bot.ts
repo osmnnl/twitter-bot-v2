@@ -11,6 +11,12 @@ import {
   hashTweetText,
   validateTweetLength,
 } from "./generation/duplicateGuard.js";
+import {
+  assembleLegacyTweet,
+  buildLegacyAiPrompt,
+  buildLegacyFallbackBody,
+  buildLegacyTweetParts,
+} from "./generation/legacyStyle.js";
 import { buildTemplateFallbackTweet } from "./generation/templateFallback.js";
 import { RepoStateAdapter } from "./history/repoStateAdapter.js";
 import { MediaHandler } from "./publish/mediaHandler.js";
@@ -200,6 +206,10 @@ async function generateTweetText(
   },
   postHistory: PostHistory[],
 ): Promise<{ tweetText: string; usedAi: boolean }> {
+  if (env.tweetStyle().toLowerCase() === "legacy") {
+    return generateLegacyTweetText(product, campaign, resolvedAsset, postHistory);
+  }
+
   const recentHistory = postHistory.slice(0, 20);
   const recentHashes = recentHistory.map((item) => item.textHash);
   const recentTexts = recentHistory
@@ -262,6 +272,115 @@ async function generateTweetText(
 
   for (let attempt = 0; attempt < 5; attempt += 1) {
     fallbackText = buildTemplateFallbackTweet(fallbackInput);
+
+    if (!validateTweetLength(fallbackText)) {
+      continue;
+    }
+
+    const duplicateCheck = checkDuplicateCandidate({
+      text: fallbackText,
+      recentHashes,
+      recentTexts,
+    });
+
+    if (!duplicateCheck.requiresRewrite) {
+      break;
+    }
+  }
+
+  if (!validateTweetLength(fallbackText)) {
+    throw new Error("Fallback tweet exceeded Twitter character limit.");
+  }
+
+  return {
+    tweetText: fallbackText,
+    usedAi: false,
+  };
+}
+
+async function generateLegacyTweetText(
+  product: Product,
+  campaign: Campaign,
+  resolvedAsset: {
+    assetText: string;
+    code?: string;
+    referralUrl?: string;
+  },
+  postHistory: PostHistory[],
+): Promise<{ tweetText: string; usedAi: boolean }> {
+  const recentHistory = postHistory.slice(0, 20);
+  const recentHashes = recentHistory.map((item) => item.textHash);
+  const recentTexts = recentHistory
+    .map((item) => item.tweetText)
+    .filter((value): value is string => Boolean(value));
+
+  const parts = buildLegacyTweetParts({
+    product,
+    campaign,
+    assetText: resolvedAsset.assetText,
+    code: resolvedAsset.code,
+    referralUrl: resolvedAsset.referralUrl,
+  });
+
+  if (env.geminiApiKey()) {
+    try {
+      const generator = new AiGenerator();
+      const { prompt } = buildLegacyAiPrompt(
+        {
+          product,
+          campaign,
+          assetText: resolvedAsset.assetText,
+          code: resolvedAsset.code,
+          referralUrl: resolvedAsset.referralUrl,
+        },
+        parts.maxBodyChars,
+      );
+      const generated = await generator.generateFreeformText(prompt, {
+        maxAttempts: 2,
+        maxChars: parts.maxBodyChars,
+      });
+
+      const candidate = assembleLegacyTweet(parts.header, generated.text, parts.footer);
+      const duplicateCheck = checkDuplicateCandidate({
+        text: candidate,
+        recentHashes,
+        recentTexts,
+      });
+
+      if (!duplicateCheck.requiresRewrite && validateTweetLength(candidate)) {
+        return {
+          tweetText: candidate,
+          usedAi: true,
+        };
+      }
+    } catch {
+      // Fallback below handles AI failures and invalid outputs.
+    }
+  }
+
+  let fallbackText = "";
+
+  for (let attempt = 0; attempt < 5; attempt += 1) {
+    const recentWindow = postHistory
+      .filter((item) => {
+        const postedAt = new Date(item.postedAt).getTime();
+        return now.getTime() - postedAt <= 24 * 60 * 60 * 1000;
+      })
+      .map((item) => item.tweetText)
+      .filter((value): value is string => Boolean(value));
+
+    const fallbackBody = buildLegacyFallbackBody(
+      {
+        product,
+        campaign,
+        assetText: resolvedAsset.assetText,
+        code: resolvedAsset.code,
+        referralUrl: resolvedAsset.referralUrl,
+      },
+      parts.maxBodyChars,
+      recentWindow,
+    );
+    fallbackText = assembleLegacyTweet(parts.header, fallbackBody, parts.footer);
 
     if (!validateTweetLength(fallbackText)) {
       continue;

@@ -8,20 +8,25 @@
     "build": "tsc -p tsconfig.json",
     "start": "tsx src/bot.ts",
     "check": "tsc --noEmit -p tsconfig.json",
-    "import:excel": "tsx scripts/importFromExcel.ts"
+    "import:excel": "tsx scripts/importFromExcel.ts",
+    "preview:legacy": "tsx scripts/previewLegacy.ts",
+    "preflight": "tsx scripts/preflight.ts",
+    "test:legacy": "tsx scripts/testLegacy.ts",
+    "test:selectors": "tsx scripts/testSelectors.ts",
+    "test:state": "tsx scripts/testState.ts"
   },
   "engines": {
     "node": ">=20"
   },
   "dependencies": {
-    "@google/generative-ai": "latest",
+    "@google/generative-ai": "^0.24.0",
     "dotenv": "^17.3.1",
-    "twitter-api-v2": "latest"
+    "twitter-api-v2": "^1.18.0"
   },
   "devDependencies": {
-    "@types/node": "latest",
-    "tsx": "latest",
-    "typescript": "latest",
-    "xlsx": "latest"
+    "@types/node": "^20.11.30",
+    "exceljs": "^4.4.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.4.5"
   }
 }

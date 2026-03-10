@@ -14,6 +14,7 @@ import { campaign as allianz_saglik } from "./allianz-saglik.js";
 import { campaign as starbucks } from "./starbucks.js";
 import { campaign as pegasus } from "./pegasus.js";
 import { campaign as korendy } from "./korendy.js";
+import { campaign as hugeicons_pro } from "./hugeicons-pro.js";
 
 export const campaigns: Campaign[] = [
   turknet,
@@ -31,4 +32,5 @@ export const campaigns: Campaign[] = [
   starbucks,
   pegasus,
   korendy,
+  hugeicons_pro,
 ];
