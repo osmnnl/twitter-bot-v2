@@ -51,5 +51,6 @@ export const env = {
   stateBranch: () => readEnv("STATE_BRANCH", false) || "state",
   botDryRun: () => readBooleanEnv("BOT_DRY_RUN", true),
   botDisableJitter: () => readBooleanEnv("BOT_DISABLE_JITTER", false),
+  tweetStyle: () => readEnv("TWEET_STYLE", false) || "v2",
   twitterCredentials,
 };

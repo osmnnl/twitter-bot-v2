@@ -6,7 +6,7 @@ export const accounts: PublishingAccount[] = [
     accountId: "account1",
     twitterHandle: "@hesap1",
     envPrefix: "TWITTER_1",
-    allowedCategories: ["Fiber İnternet", "Mobil Operatör", "Ev İnterneti"],
+    allowedCategories: ["Fiber İnternet", "Mobil Operatör", "Ev İnterneti", "Seyahat", "Yeme & İçme", "Kozmetik", "Dijital Ürün"],
     scheduleProfile: defaultScheduleProfile,
   },
   {

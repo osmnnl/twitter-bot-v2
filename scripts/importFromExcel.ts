@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import { fileURLToPath } from "node:url";
-import * as XLSX from "xlsx";
+import ExcelJS from "exceljs";
 
 type ProductRow = {
   id: string;
@@ -41,8 +41,6 @@ type AssetRow = {
 
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_DIR = path.join(ROOT_DIR, "src", "data");
-const { readFile, utils } = XLSX;
-
 function getArg(name: string): string | undefined {
   const prefix = `${name}=`;
   const match = process.argv.find((arg) => arg.startsWith(prefix));
@@ -96,24 +94,56 @@ function stringifyTs(value: unknown, indent = 0): string {
   throw new Error(`Unsupported value type: ${typeof value}`);
 }
 
-function sheetToRows<T extends Record<string, unknown>>(workbookPath: string, sheetName: string): T[] {
-  const workbook = readFile(workbookPath);
-  const actualSheetName = workbook.SheetNames.find(
-    (name) => name.toLowerCase() === sheetName.toLowerCase(),
+async function sheetToRows<T extends Record<string, unknown>>(
+  workbookPath: string,
+  sheetName: string,
+): Promise<T[]> {
+  const workbook = new ExcelJS.Workbook();
+  await workbook.xlsx.readFile(workbookPath);
+
+  const worksheet = workbook.worksheets.find(
+    (sheet) => sheet.name.toLowerCase() === sheetName.toLowerCase(),
   );
 
-  if (!actualSheetName) {
+  if (!worksheet) {
     throw new Error(
       `Workbook içinde "${sheetName}" sayfasi bulunamadi. Beklenen sayfalar: products, campaigns, assets.`,
     );
   }
 
-  const worksheet = workbook.Sheets[actualSheetName];
-  if (!worksheet) {
-    throw new Error(`Workbook içinde "${actualSheetName}" sayfasi okunamadi.`);
-  }
+  const headerRow = worksheet.getRow(1);
+  const headers = headerRow.values
+    .slice(1)
+    .map((value) => String(value ?? "").trim());
 
-  return utils.sheet_to_json<T>(worksheet, { defval: "" });
+  const rows: T[] = [];
+
+  worksheet.eachRow((row, rowNumber) => {
+    if (rowNumber === 1) {
+      return;
+    }
+
+    const record: Record<string, unknown> = {};
+    headers.forEach((header, index) => {
+      if (!header) {
+        return;
+      }
+
+      const cell = row.getCell(index + 1);
+      const value = cell.value;
+
+      if (typeof value === "object" && value !== null && "text" in value) {
+        record[header] = String((value as { text?: string }).text ?? "").trim();
+        return;
+      }
+
+      record[header] = value ?? "";
+    });
+
+    rows.push(record as T);
+  });
+
+  return rows;
 }
 
 function requiredString(
@@ -266,8 +296,8 @@ async function writeCatalogBridge(): Promise<void> {
   await writeFile(path.join(DATA_DIR, "catalog.ts"), source, "utf8");
 }
 
-function parseProducts(workbookPath: string): ProductRow[] {
-  const rows = sheetToRows<Record<string, unknown>>(workbookPath, "products");
+async function parseProducts(workbookPath: string): Promise<ProductRow[]> {
+  const rows = await sheetToRows<Record<string, unknown>>(workbookPath, "products");
 
   return rows.map((row, index) => ({
     id: requiredString(row, "id", "products", index),
@@ -280,8 +310,8 @@ function parseProducts(workbookPath: string): ProductRow[] {
   }));
 }
 
-function parseCampaigns(workbookPath: string): CampaignRow[] {
-  const rows = sheetToRows<Record<string, unknown>>(workbookPath, "campaigns");
+async function parseCampaigns(workbookPath: string): Promise<CampaignRow[]> {
+  const rows = await sheetToRows<Record<string, unknown>>(workbookPath, "campaigns");
 
   return rows.map((row, index) => ({
     productId: requiredString(row, "productId", "campaigns", index),
@@ -296,8 +326,8 @@ function parseCampaigns(workbookPath: string): CampaignRow[] {
   }));
 }
 
-function parseAssets(workbookPath: string): AssetRow[] {
-  const rows = sheetToRows<Record<string, unknown>>(workbookPath, "assets");
+async function parseAssets(workbookPath: string): Promise<AssetRow[]> {
+  const rows = await sheetToRows<Record<string, unknown>>(workbookPath, "assets");
 
   return rows.map((row, index) => {
     const asset: AssetRow = {
@@ -358,9 +388,9 @@ async function main(): Promise<void> {
   const workbookPath = path.resolve(process.cwd(), workbookArg);
   const outputDir = path.resolve(process.cwd(), getArg("--outDir") ?? DATA_DIR);
 
-  const products = parseProducts(workbookPath);
-  const campaigns = parseCampaigns(workbookPath);
-  const assets = parseAssets(workbookPath);
+  const products = await parseProducts(workbookPath);
+  const campaigns = await parseCampaigns(workbookPath);
+  const assets = await parseAssets(workbookPath);
 
   const productsDir = path.join(outputDir, "products");
   const campaignsDir = path.join(outputDir, "campaigns");

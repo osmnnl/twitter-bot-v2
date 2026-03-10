@@ -56,6 +56,33 @@ export class AiGenerator {
 
     throw new Error("AI generator could not produce a valid tweet.");
   }
+
+  async generateFreeformText(
+    prompt: string,
+    options: { maxAttempts?: number; modelName?: string; maxChars?: number } = {},
+  ): Promise<GeneratedTweet> {
+    const modelName = options.modelName ?? this.modelName;
+    const model = this.client.getGenerativeModel({ model: modelName });
+    const maxAttempts = options.maxAttempts ?? 2;
+    const maxChars = options.maxChars;
+
+    for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+      const result = await model.generateContent(prompt);
+      const text = cleanGeneratedTweet(result.response.text());
+
+      const withinLimit = maxChars ? text.length <= maxChars : validateTweetLength(text);
+      if (text !== "" && withinLimit) {
+        return {
+          text,
+          textHash: hashTweetText(text),
+          attempts: attempt,
+          modelName,
+        };
+      }
+    }
+
+    throw new Error("AI generator could not produce a valid response.");
+  }
 }
 
 export function buildTweetPrompt(input: GenerateTweetInput): string {

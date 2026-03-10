@@ -14,6 +14,7 @@ import { product as allianz_saglik } from "./allianz-saglik.js";
 import { product as starbucks } from "./starbucks.js";
 import { product as pegasus } from "./pegasus.js";
 import { product as korendy } from "./korendy.js";
+import { product as hugeicons_pro } from "./hugeicons-pro.js";
 
 export const products: Product[] = [
   turknet,
@@ -31,4 +32,5 @@ export const products: Product[] = [
   starbucks,
   pegasus,
   korendy,
+  hugeicons_pro,
 ];
