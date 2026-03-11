@@ -7,6 +7,6 @@ export const product: Product = {
   category: "Fiber İnternet",
   color: "#0057FF",
   imagePath: "assets/images/turknet.png",
-  weight: 20,
+  weight: 60,
   active: true
 };
