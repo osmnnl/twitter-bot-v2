@@ -2,7 +2,7 @@ import { env } from "./config/env.js";
 import { calculateRandomDelayMs, isAllowedHour } from "./config/scheduleProfile.js";
 import { accounts } from "./data/accounts.js";
 import type { PublishingAccount } from "./domain/account.js";
-import type { PostHistory } from "./domain/history.js";
+import type { PoolState, PostHistory } from "./domain/history.js";
 import type { Campaign, Product } from "./domain/product.js";
 import { ApiResponseError } from "twitter-api-v2";
 import { AiGenerator } from "./generation/aiGenerator.js";
@@ -85,10 +85,7 @@ async function main(): Promise<void> {
 async function runAccount(
   account: PublishingAccount,
   postHistory: PostHistory[],
-  poolState: Record<
-    string,
-    { available: string[]; disabled: string[]; lastReset: string | null; resetPolicy: "manual" | "monthly" }
-  >,
+  poolState: PoolState,
   now: Date,
   dryRun: boolean,
 ): Promise<{ result: AccountRunResult; historyEntry?: PostHistory }> {

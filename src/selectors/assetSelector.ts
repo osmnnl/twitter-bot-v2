@@ -1,4 +1,4 @@
-import type { PoolState } from "../domain/history.js";
+import type { PoolCodeEntry, PoolState } from "../domain/history.js";
 import type { ReferralAsset } from "../domain/product.js";
 
 export interface ResolvedAsset {
@@ -31,7 +31,7 @@ export function hasAvailableAsset(asset: ReferralAsset, poolState: PoolState = {
 
   if (asset.assetType === "rotating_code" || asset.assetType === "templated_link") {
     const availableCode = poolState[asset.productId]?.available?.[0];
-    return Boolean(availableCode);
+    return Boolean(getPoolCodeValue(availableCode));
   }
 
   return false;
@@ -149,5 +149,17 @@ function pickRandomAvailableCode(
   }
 
   const randomIndex = Math.floor(random() * availableCodes.length);
-  return availableCodes[randomIndex];
+  return getPoolCodeValue(availableCodes[randomIndex]);
+}
+
+function getPoolCodeValue(entry: PoolCodeEntry | string | undefined): string | undefined {
+  if (!entry) {
+    return undefined;
+  }
+
+  if (typeof entry === "string") {
+    return entry;
+  }
+
+  return entry.code;
 }

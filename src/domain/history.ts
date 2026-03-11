@@ -9,10 +9,16 @@ export interface PostHistory {
 }
 
 export interface PoolStateItem {
-  available: string[];
-  disabled: string[];
+  available: PoolCodeEntry[];
+  disabled: PoolCodeEntry[];
   lastReset: string | null;
   resetPolicy: "manual" | "monthly";
 }
 
 export type PoolState = Record<string, PoolStateItem>;
+
+export interface PoolCodeEntry {
+  code: string;
+  expires: string;
+  win: boolean;
+}
