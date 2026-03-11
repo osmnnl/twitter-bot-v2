@@ -15,6 +15,7 @@ import { referralAsset as starbucks } from "./starbucks.js";
 import { referralAsset as pegasus } from "./pegasus.js";
 import { referralAsset as korendy } from "./korendy.js";
 import { referralAsset as hugeicons_pro } from "./hugeicons-pro.js";
+import { referralAsset as getir_finans } from "./getir-finans.js";
 
 export const referralAssets: ReferralAsset[] = [
   turknet,
@@ -33,4 +34,5 @@ export const referralAssets: ReferralAsset[] = [
   pegasus,
   korendy,
   hugeicons_pro,
+  getir_finans,
 ];
