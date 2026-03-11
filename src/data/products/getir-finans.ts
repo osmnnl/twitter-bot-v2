@@ -6,7 +6,7 @@ export const product: Product = {
   searchAliases: ["GetirFinans", "Getir Finans", "Getir", "GetirPara"],
   category: "Bankacılık",
   color: "#FFD400",
-  imagePath: "assets/images/getir-finans.png",
+  imagePath: "assets/images/getirfinans.png",
   weight: 6,
   active: true
 };

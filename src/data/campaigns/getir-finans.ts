@@ -11,7 +11,7 @@ export const campaign: Campaign = {
     "#GetirPara",
     "#davetkodu"
   ],
-  imagePath: "assets/images/getir-finans.png",
+  imagePath: "assets/images/getirfinans.png",
   altText: "GetirFinans kampanya görseli",
   mediaRequired: false
 };
