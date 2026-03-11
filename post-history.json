@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2031748347196023239",
+    "textHash": "b56566b17695664f7e2ceeaeeb5311ef",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı için bu davet kodunu kullan. İş Bankası kampanya ve referans kodu arayanlar için 500 TL MaxiPuan fırsatı burada.\n#IsBankasi #MaxiPuan",
+    "postedAt": "2026-03-11T14:53:43.120Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-D9E86991",
+    "accountId": "account1",
+    "tweetId": "2031748269152620876",
+    "textHash": "8774b65fa778d33d9d37188d6f7dfd5e",
+    "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Pegasus davet kodu ve referans linki arayanlar için bu seyahat kampanyası fırsatı burada.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-11T14:53:43.120Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
