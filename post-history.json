@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2031707249962364943",
+    "textHash": "0327bd27ac7826f791e50f1a2f1e808d",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Banka kampanyası arayanlar için 1.000 TL Bonus fırsatı burada. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#Bonus #GarantiBBVA",
+    "postedAt": "2026-03-11T10:49:22.699Z"
+  },
+  {
+    "productId": "vodafone-red",
+    "assetId": "vodafone-red-fixed",
+    "accountId": "account1",
+    "tweetId": "2031707208409326054",
+    "textHash": "4d8f227d393293152edec0917af2576b",
+    "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. İlk 3 Ay 30 GB Hediye fırsatı, davet kodu arayanlar için burada duruyor.\n#VodafoneRed #Red",
+    "postedAt": "2026-03-11T10:49:22.699Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
