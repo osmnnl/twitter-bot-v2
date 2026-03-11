@@ -1,13 +1,179 @@
 {
   "turknet": {
     "available": [
-      "BOC71FY10YAK",
-      "SQM64SQ15QPA",
-      "WJX59LQ66UXS",
-      "WGQ86MQ42KJA",
-      "EFY79IX25BIQ"
+      {
+        "code": "EFY79IX25BIQ",
+        "expires": "12.03.2026",
+        "win": false
+      },
+      {
+        "code": "BOC71FY10YAK",
+        "expires": "12.03.2026",
+        "win": false
+      },
+      {
+        "code": "WJX59LQ66UXS",
+        "expires": "20.03.2026",
+        "win": false
+      },
+      {
+        "code": "SQM64SQ15QPA",
+        "expires": "21.03.2026",
+        "win": false
+      },
+      {
+        "code": "MEX68UR13UEE",
+        "expires": "25.03.2026",
+        "win": false
+      }
     ],
-    "disabled": [],
+    "disabled": [
+      {
+        "code": "HMA94IM44HMA",
+        "expires": "08.12.2025",
+        "win": true
+      },
+      {
+        "code": "HGW49ND90AHM",
+        "expires": "08.12.2025",
+        "win": true
+      },
+      {
+        "code": "RJY78AF54MIR",
+        "expires": "11.12.2025",
+        "win": true
+      },
+      {
+        "code": "KRT19GD41ELE",
+        "expires": "15.12.2025",
+        "win": true
+      },
+      {
+        "code": "UMD56XL57WPF",
+        "expires": "30.12.2025",
+        "win": true
+      },
+      {
+        "code": "DWS25OR59HBQ",
+        "expires": "31.12.2025",
+        "win": true
+      },
+      {
+        "code": "YNR22XF26FHB",
+        "expires": "06.01.2026",
+        "win": true
+      },
+      {
+        "code": "QRH45VA92FKQ",
+        "expires": "06.01.2026",
+        "win": true
+      },
+      {
+        "code": "LXX51DM11CCQ",
+        "expires": "06.01.2026",
+        "win": true
+      },
+      {
+        "code": "VOA40QO14XSG",
+        "expires": "21.01.2026",
+        "win": true
+      },
+      {
+        "code": "LEG12NL62CLF",
+        "expires": "21.01.2026",
+        "win": true
+      },
+      {
+        "code": "OKU79EQ42LXQ",
+        "expires": "21.01.2026",
+        "win": true
+      },
+      {
+        "code": "PTE24GO10JKJ",
+        "expires": "21.01.2026",
+        "win": true
+      },
+      {
+        "code": "AHV96LK93YKJ",
+        "expires": "21.01.2026",
+        "win": true
+      },
+      {
+        "code": "BTG78MO17YOK",
+        "expires": "04.02.2026",
+        "win": true
+      },
+      {
+        "code": "GUP99DR30NYU",
+        "expires": "04.02.2026",
+        "win": true
+      },
+      {
+        "code": "GSE92SO73GAK",
+        "expires": "04.02.2026",
+        "win": true
+      },
+      {
+        "code": "TYE91LL77FYV",
+        "expires": "08.02.2026",
+        "win": true
+      },
+      {
+        "code": "VOE28JF84XCD",
+        "expires": "10.02.2026",
+        "win": true
+      },
+      {
+        "code": "TLM47AO87EUG",
+        "expires": "16.02.2026",
+        "win": true
+      },
+      {
+        "code": "UXN14NG88ESG",
+        "expires": "23.02.2026",
+        "win": true
+      },
+      {
+        "code": "HBP18GC40LXL",
+        "expires": "03.03.2026",
+        "win": true
+      },
+      {
+        "code": "XJT24IC68VGC",
+        "expires": "06.03.2026",
+        "win": true
+      },
+      {
+        "code": "SOW19GK76SNT",
+        "expires": "06.03.2026",
+        "win": true
+      },
+      {
+        "code": "EQP33XA62QVI",
+        "expires": "12.03.2026",
+        "win": true
+      },
+      {
+        "code": "XDE10GH91CPN",
+        "expires": "15.03.2026",
+        "win": true
+      },
+      {
+        "code": "XXW91AG99IAD",
+        "expires": "15.03.2026",
+        "win": true
+      },
+      {
+        "code": "FSN79AD20OQT",
+        "expires": "18.03.2026",
+        "win": true
+      },
+      {
+        "code": "WGQ86MQ42KJA",
+        "expires": "20.03.2026",
+        "win": true
+      }
+    ],
     "lastReset": null,
     "resetPolicy": "manual"
   },
