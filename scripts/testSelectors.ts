@@ -40,7 +40,13 @@ const poolState: PoolState = {};
 for (const asset of referralAssets) {
   if (asset.assetType === "rotating_code" || asset.assetType === "templated_link") {
     poolState[asset.productId] = {
-      available: ["TESTCODE"],
+      available: [
+        {
+          code: "TESTCODE",
+          expires: "01.01.2099",
+          win: false,
+        },
+      ],
       disabled: [],
       lastReset: null,
       resetPolicy: asset.resetPolicy ?? "manual",
