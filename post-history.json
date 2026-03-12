@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2032146443679494333",
+    "textHash": "3ad882da666cee84c435add6eb39f0cd",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Şirket sahipleri için banka kampanyası arayanlara özel 1.000 TL ödül fırsatı burada.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-12T17:02:48.809Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2032146403791613974",
+    "textHash": "7ab13759bf6384b840788e8bcbdc6349",
+    "tweetText": "Turk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurk Net'e kayıt olurken veya başvuru yaparken bu davet koduyla 1 Ay Ücretsiz İnternet kazan. Fiber internet kampanyası, TürkNet referans linki arayanlara bedava bu fırsat.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-12T17:02:48.809Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
