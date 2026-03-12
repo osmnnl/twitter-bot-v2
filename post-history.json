@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2032070372087251043",
+    "textHash": "84ea8af8c46148eeb58689fc5d2ac98c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
+    "postedAt": "2026-03-12T10:48:39.335Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2032070317997506882",
+    "textHash": "9b052d712fe813156123589f70cb79c0",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL indirim fırsatı için bu referans linkini kullan. Bakım ve kozmetik kampanyası arayanlar için bu davet linki harika bir avantaj sunuyor.\n#Korendy #KBeauty",
+    "postedAt": "2026-03-12T10:48:39.335Z"
+  },
+  {
     "productId": "getir-finans",
     "assetId": "getir-finans-fixed",
     "accountId": "account2",
