@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2032504001095434373",
+    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-13T15:11:30.782Z"
+  },
+  {
+    "productId": "hugeicons-pro",
+    "assetId": "hugeicons-pro-link",
+    "accountId": "account1",
+    "tweetId": "2032503957239771474",
+    "textHash": "4ea8df3042dd3310b0a3ea9edcfd411f",
+    "tweetText": "Huge Icons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHuge Icons'a abonelik veya lisans alırken 30% Commission Rate lisans ve gelir avantajı almak için bu referans linkini kullan. 30% Commission Rate fırsatı, referans linki arayanlar için burada duruyor.\n#HugeiconsPro #Affiliate",
+    "postedAt": "2026-03-13T15:11:30.782Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
