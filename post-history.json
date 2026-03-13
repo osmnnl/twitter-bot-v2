@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2032551218648654141",
+    "textHash": "4d9dc4de24e9abdf0b2457be94d90885",
+    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara kazanmak için bu davet kodunu kullan. Banka kampanyası ve referans linki arayanlara bedava GetirPara fırsatı burada.\n#GetirFinans #GetirPara #davetkodu",
+    "postedAt": "2026-03-13T18:52:08.072Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2032551117603619317",
+    "textHash": "020e512212e17b34389bf5032ebe96d5",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
+    "postedAt": "2026-03-13T18:52:08.072Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
