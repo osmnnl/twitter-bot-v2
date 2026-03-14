@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2032729539944554924",
+    "textHash": "379b99f21f462a9d5c7d3e39a008ff06",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
+    "postedAt": "2026-03-14T06:56:48.524Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-REE30VK13POU",
+    "accountId": "account1",
+    "tweetId": "2032729486429393345",
+    "textHash": "9265861266eff9d3c9e242b1a8c604cf",
+    "tweetText": "TurkNet\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
+    "postedAt": "2026-03-14T06:56:48.524Z"
+  },
+  {
     "productId": "isbank",
     "assetId": "isbank-fixed",
     "accountId": "account2",
