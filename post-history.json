@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2032922165486428244",
+    "textHash": "9da8c49b9780be0f59c7dfa09255c1a5",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanma fırsatı için bu davet kodunu kullan. Banka kampanyası arayanlar ve bedava avantaj isteyenler için bu referans kodu büyük bir fırsat.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-14T20:35:30.397Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2032922136524865685",
+    "textHash": "83a7109bf3a6ca9f7cf7e5bdbbfe8541",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Starbucks davet kodu ve Starbucks referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Ikram #Starbucks",
+    "postedAt": "2026-03-14T20:35:30.397Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
