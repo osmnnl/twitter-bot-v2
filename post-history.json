@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2033189693211169091",
+    "textHash": "49f0b1a75b575214937a122700a4740f",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
+    "postedAt": "2026-03-15T13:05:19.508Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-IVJ21MS54QOV",
+    "accountId": "account1",
+    "tweetId": "2033189641604550780",
+    "textHash": "7a3c612bec1b931279274f6b4da3cb7a",
+    "tweetText": "TurkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTurkNet'e kayıt olurken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TürkNet davet kodu veya referans linki arayanlara bedava fiber internet kampanyası fırsatı.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-15T13:05:19.508Z"
+  },
+  {
     "productId": "enpara-bireysel",
     "assetId": "enpara-bireysel-link",
     "accountId": "account2",
