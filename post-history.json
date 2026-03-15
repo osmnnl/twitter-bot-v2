@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2033311651802251508",
+    "textHash": "e466a4b4c5bf509f528c192e07f84bf4",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. Akbank referans kodu ve banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı ve bedava avantaj kazan.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-15T22:34:15.008Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-CF14CE31",
+    "accountId": "account1",
+    "tweetId": "2033311624853872735",
+    "textHash": "bc9f1dcc92b7938b16711b52ebc29f74",
+    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. Pegasus davet kodu ve Pegasus referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Pegasus",
+    "postedAt": "2026-03-15T22:34:15.008Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
