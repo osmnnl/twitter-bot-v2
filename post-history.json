@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2033254639945031708",
+    "textHash": "396abe75d3540d098105d3cdb461d6c9",
+    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara avantajı için bu davet kodunu kullan. Getir Finans referans linki arayanlara ₺500 GetirPara kampanya fırsatı sunulur.\n#GetirFinans #GetirPara #davetkodu",
+    "postedAt": "2026-03-15T18:49:18.847Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-55AFC5CC",
+    "accountId": "account1",
+    "tweetId": "2033254525138518133",
+    "textHash": "4aff25f3a189233671ec6b9fbbfe8321",
+    "tweetText": "Pegasus\nDavet Kodu: 55AFC5CC\nDavet Linki: https://flyp.gs/55AFC5CC\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Seyahat kampanyası arayanlara özel bu fırsat ile bedava BolBol Puan kazan.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-15T18:49:18.847Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
