@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2033546006323675641",
+    "textHash": "a99e9731c008f3655d947473ce3c00a0",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. 500 TL MaxiPuan fırsatı, davet kodu arayanlar için burada duruyor.\n#MaxiPuan #IsBankasi",
+    "postedAt": "2026-03-16T13:26:09.988Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-MEX68UR13UEE",
+    "accountId": "account1",
+    "tweetId": "2033545951852302508",
+    "textHash": "8b7065c31e012f1d61f0d6246cee37ef",
+    "tweetText": "TurkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 ay bedava fiber internet için bu davet kodunu kullan. TürkNet referans linki arayanlara bu fırsat, internet kampanyası avantajı sunar.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-16T13:26:09.988Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
