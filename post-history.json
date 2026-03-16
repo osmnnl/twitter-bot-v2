@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2033472608507695133",
+    "textHash": "67042e2995de3314ea23c343060bf3c8",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-16T09:04:27.888Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-IVJ21MS54QOV",
+    "accountId": "account1",
+    "tweetId": "2033472566153584945",
+    "textHash": "a6037cc53b9ec20aee03daaff31ee68a",
+    "tweetText": "TurkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
+    "postedAt": "2026-03-16T09:04:27.888Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
