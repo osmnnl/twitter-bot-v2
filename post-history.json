@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2033427448256180236",
+    "textHash": "48653f4e3655b98307d8a5579136117e",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Garanti BBVA referans kodu ve banka kampanyası arayanlar için 1.000 TL Bonus fırsatı ile bedava avantaj kazan.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-16T05:51:04.180Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-MEX68UR13UEE",
+    "accountId": "account1",
+    "tweetId": "2033427415511212187",
+    "textHash": "f8ef46d0d72d838cbc4c16ebf7f037fe",
+    "tweetText": "Turk Net\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-16T05:51:04.180Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
