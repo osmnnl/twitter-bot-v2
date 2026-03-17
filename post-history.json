@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2033855671536328751",
+    "textHash": "fbfc2a0b2443fbeaa1d8134956264a0f",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Saglik",
+    "postedAt": "2026-03-17T08:59:40.268Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-SQM64SQ15QPA",
+    "accountId": "account1",
+    "tweetId": "2033855584743690579",
+    "textHash": "ddbbe85226cfd90071ba93d7831211eb",
+    "tweetText": "TürkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürkNet'e kaydolurken veya başvururken 1 ay bedava fiber internet için bu davet kodunu kullan. TurkNet referans linki arayanlar için bu kampanya, 1 ay ücretsiz internet fırsatı sunar.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-17T08:59:40.268Z"
+  },
+  {
     "productId": "isbank",
     "assetId": "isbank-fixed",
     "accountId": "account2",
@@ -1772,21 +1790,5 @@
     "tweetId": "2030473451891282229",
     "textHash": "52784f2783cd7ca32b3f45c0ed094b99",
     "postedAt": "2026-03-08T02:35:28.453Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2030457562811035993",
-    "textHash": "901d8afc3887b51c35f753d46ce6644e",
-    "postedAt": "2026-03-08T01:36:17.451Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2030457556997673219",
-    "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
-    "postedAt": "2026-03-08T01:36:17.451Z"
   }
 ]
