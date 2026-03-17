@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2033938417898123565",
+    "textHash": "7e3e5a694fc5d315e1b3927183c6fa93",
+    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için ₺500 GetirPara fırsatı burada.\n#GetirFinans #davetkodu",
+    "postedAt": "2026-03-17T15:03:23.219Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2033938361488982277",
+    "textHash": "40bc497b5575299b1e044f8b1d2ff058",
+    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye kampanya avantajı için bu davet kodunu kullan.\n#Vodafone #Tarife",
+    "postedAt": "2026-03-17T15:03:23.219Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1778,21 +1796,5 @@
     "tweetId": "2030655978727723376",
     "textHash": "8b2d1e0d0b292b89a4f480e3bfae3e65",
     "postedAt": "2026-03-08T14:29:45.961Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2030648648695263594",
-    "textHash": "54b0ca70ce7c56489212c6cbabe57609",
-    "postedAt": "2026-03-08T14:15:36.770Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2030648644047880358",
-    "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
-    "postedAt": "2026-03-08T14:15:36.770Z"
   }
 ]
