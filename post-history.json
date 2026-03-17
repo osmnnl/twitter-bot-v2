@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2033911046595891326",
+    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
+    "postedAt": "2026-03-17T13:24:47.816Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2033910990748663829",
+    "textHash": "0ae2931610c90e14515767cf5943bc75",
+    "tweetText": "Turk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
+    "postedAt": "2026-03-17T13:24:47.816Z"
+  },
+  {
     "productId": "enpara-sirketim",
     "assetId": "enpara-sirketim-link",
     "accountId": "account2",
@@ -1776,21 +1794,5 @@
     "tweetId": "2030648644047880358",
     "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
     "postedAt": "2026-03-08T14:15:36.770Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2030522161824202840",
-    "textHash": "8b2d1e0d0b292b89a4f480e3bfae3e65",
-    "postedAt": "2026-03-08T05:48:01.283Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2030507792159609341",
-    "textHash": "901d8afc3887b51c35f753d46ce6644e",
-    "postedAt": "2026-03-08T04:46:53.960Z"
   }
 ]
