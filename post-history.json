@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2033876153069437279",
+    "textHash": "861b72c042e3c83dd33c35c343c5d2d5",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kampanya avantajı için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Ödül fırsatı burada.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-17T10:56:06.498Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2033876083561394208",
+    "textHash": "6308f3d883b1902feebe0d62be1ec595",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kampanya avantajı için bu referans linkini kullan. Kozmetik kampanyası arayanlar için 100 TL İndirim fırsatı burada.\n#KBeauty #Korendy",
+    "postedAt": "2026-03-17T10:56:06.498Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1774,21 +1792,5 @@
     "tweetId": "2030507792159609341",
     "textHash": "901d8afc3887b51c35f753d46ce6644e",
     "postedAt": "2026-03-08T04:46:53.960Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2030507786174362054",
-    "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
-    "postedAt": "2026-03-08T04:46:53.960Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-SQM64SQ15QPA",
-    "accountId": "account1",
-    "tweetId": "2030473451891282229",
-    "textHash": "52784f2783cd7ca32b3f45c0ed094b99",
-    "postedAt": "2026-03-08T02:35:28.453Z"
   }
 ]
