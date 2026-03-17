@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2034003457477169628",
+    "textHash": "ea73ee85ae4ed1d57f9fec6ada19d98a",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Banka kampanyası ve referans kodu arayanlar için 1.000 TL Bonus fırsatı ve avantajı burada.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-17T19:11:00.256Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-CF14CE31",
+    "accountId": "account1",
+    "tweetId": "2034003411050332395",
+    "textHash": "004d6c6606e3319e00cc8593b775dba0",
+    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor.\n#BolBol #Pegasus",
+    "postedAt": "2026-03-17T19:11:00.256Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "261fa8c23e08bbcc28c553140c6acd9e",
     "tweetText": "Türk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTürk Net'e kayıt olurken 1 ay bedava internet fırsatı kazanmak için bu davet kodunu kullan. Bu TurkNet kampanyası sana referans linki veya referans kodu ile büyük bir avantaj sağlar.\n#TurkNet #ArkadasiniGetir",
     "postedAt": "2026-03-08T18:42:21.375Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2030698114588533247",
-    "textHash": "a977e24d3a7e19da2f4478bdcfe0edfa",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan kazanmak için bu davet kodunu kullan. Bu banka kampanyası sana referans kodu veya referans linki ile büyük bir fırsat sunuyor.\n#IsBankasi #MaxiPuan",
-    "postedAt": "2026-03-08T16:36:32.924Z"
-  },
-  {
-    "productId": "vodafone-freezone",
-    "assetId": "vodafone-freezone-fixed",
-    "accountId": "account1",
-    "tweetId": "2030698045046997031",
-    "textHash": "4abf0d1f299ad3bbcf4f590190982fb5",
-    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat/numara taşımada, bu davet kodu ile 30 GB + 3 Ay Dijital Platform hediyesi kazan. Bu kampanya, internet ve platform avantajı büyük bir fırsat.\n#FreeZone #Vodafone",
-    "postedAt": "2026-03-08T16:36:32.924Z"
   }
 ]
