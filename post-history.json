@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2033820660619686189",
+    "textHash": "c40e5ecd2109b82b36e2d3aa78d5bdb3",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. 500 TL MaxiPuan fırsatı, davet kodu arayanlar için burada duruyor.\n#IsBankasi #MaxiPuan",
+    "postedAt": "2026-03-17T07:12:41.457Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2033820602083967165",
+    "textHash": "f98116e05cfd14f2a69233a54cfab9eb",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim için bu referans linkini kullan. 100 TL İndirim fırsatı, referans linki arayanlar için burada duruyor. Korendy alışverişlerinde referans linki ile indirim fırsatı elde edilir.\n#Korendy",
+    "postedAt": "2026-03-17T07:12:41.457Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1770,21 +1788,5 @@
     "tweetId": "2030457556997673219",
     "textHash": "33bf7b458ac1e55c5e71bba28d36400d",
     "postedAt": "2026-03-08T01:36:17.451Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2030456142640378079",
-    "textHash": "c8522c0be08a08515b3c053a1753bd11",
-    "postedAt": "2026-03-08T01:30:39.255Z"
-  },
-  {
-    "productId": "vodafone-avantajli",
-    "assetId": "vodafone-avantajli-fixed",
-    "accountId": "account1",
-    "tweetId": "2030456137158426802",
-    "textHash": "f8592851f6a39d140a12c56a94ead256",
-    "postedAt": "2026-03-08T01:30:39.255Z"
   }
 ]
