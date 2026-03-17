@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2033973630820823436",
+    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
+    "postedAt": "2026-03-17T17:09:11.022Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2033973590786224204",
+    "textHash": "9a67cb2e092354f3ead0ff9b7cbf4cf7",
+    "tweetText": "TurkNet\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-17T17:09:11.022Z"
+  },
+  {
     "productId": "getir-finans",
     "assetId": "getir-finans-fixed",
     "accountId": "account2",
@@ -1780,21 +1798,5 @@
     "textHash": "4abf0d1f299ad3bbcf4f590190982fb5",
     "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat/numara taşımada, bu davet kodu ile 30 GB + 3 Ay Dijital Platform hediyesi kazan. Bu kampanya, internet ve platform avantajı büyük bir fırsat.\n#FreeZone #Vodafone",
     "postedAt": "2026-03-08T16:36:32.924Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2030655983714713919",
-    "textHash": "901d8afc3887b51c35f753d46ce6644e",
-    "postedAt": "2026-03-08T14:29:45.961Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2030655978727723376",
-    "textHash": "8b2d1e0d0b292b89a4f480e3bfae3e65",
-    "postedAt": "2026-03-08T14:29:45.961Z"
   }
 ]
