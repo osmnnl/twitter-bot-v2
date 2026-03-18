@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2034194355569786998",
+    "textHash": "9a250ab2f787aad18b616db63e90cd18",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Nakit İade fırsatı burada.\n#NakitIade #Enpara",
+    "postedAt": "2026-03-18T08:57:38.793Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-D9E86991",
+    "accountId": "account1",
+    "tweetId": "2034194308606087533",
+    "textHash": "9d661f21c8f7a7f25efc9bbce0132e0a",
+    "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\nPegasus'a üyelik veya bilet alırken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Pegasus kampanyası ve referans linki arayanlar bu davet koduyla 2.000 BolBol Puan kazanabilir.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-18T08:57:38.793Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "5d77ef7a22402a24b1ca9f63495be1be",
     "tweetText": "TürkNet\nDavet Kodu: EFY79IX25BIQ\nDavet Linki: https://turk.net/?p=EFY79IX25BIQ\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet #ArkadasiniGetir",
     "postedAt": "2026-03-09T08:53:38.990Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2030905314816786777",
-    "textHash": "67042e2995de3314ea23c343060bf3c8",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-09T07:10:05.899Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2030905275360932042",
-    "textHash": "c9ee5b97e72e66b0b176a6f4e95a6964",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki kampanya avantajı için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
-    "postedAt": "2026-03-09T07:10:05.899Z"
   }
 ]
