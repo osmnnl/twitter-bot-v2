@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2034342622555238860",
+    "textHash": "0121b91ecd55833bcc1c3fce1113f041",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Şirket sahipleri için bu banka kampanyası, 1.000 TL hediye fırsatı ve avantajı sunar.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-18T17:08:47.044Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2034342565256773913",
+    "textHash": "a45b403f36a5dd5858d2b7211355ec8c",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kampanya avantajı için bu referans linkini kullan. Kozmetik kampanyası ve fırsatı arayanlar 100 TL hediye indirim kazan.\n#Korendy #KBeauty",
+    "postedAt": "2026-03-18T17:08:47.044Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "aa2a91b3b2f13e1e54685e3035e6a92d",
     "tweetText": "Turk Net\nDavet Kodu: WGQ86MQ42KJA\nDavet Linki: https://turk.net/?p=WGQ86MQ42KJA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
     "postedAt": "2026-03-09T17:00:54.538Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2031037769007481196",
-    "textHash": "6b3d12d76db7cca215ba1df71056c34b",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Bu banka kampanyası sana referans kodu fırsatı ve 1.000 TL avantaj sağlar.\n#GarantiBBVA #Bonus",
-    "postedAt": "2026-03-09T15:14:05.894Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2031037729190875384",
-    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
-    "postedAt": "2026-03-09T15:14:05.894Z"
   }
 ]
