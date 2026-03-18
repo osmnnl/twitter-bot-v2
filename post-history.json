@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2034376446819344736",
+    "textHash": "3232dccabca3ee5b97873c481fa30ca7",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı için bu davet kodunu kullan. İş Bankası referans linki arayanlar bu banka kampanyası ile bedava MaxiPuan fırsatı kazan.\n#IsBankasi #MaxiPuan",
+    "postedAt": "2026-03-18T20:45:04.698Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2034376397959921746",
+    "textHash": "b4b690ad7397f436961f9b623c1aeb41",
+    "tweetText": "TurkNet\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurkNet'e ilk kez müşteri olurken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TürkNet referans linki arayanlar bu kampanya ile bedava internet fırsatı kazan.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-18T20:45:04.698Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "dd1862652a1baf5389c6d99a95e360d8",
     "tweetText": "Türk Net\nDavet Kodu: BOC71FY10YAK\nDavet Linki: https://turk.net/?p=BOC71FY10YAK\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#TurkNet #ArkadasiniGetir",
     "postedAt": "2026-03-09T20:40:46.977Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2031098811699937636",
-    "textHash": "dbb0beb71725d907651438bb11cc93e7",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Garanti BBVA davet kodu ve Garanti BBVA referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Bonus #GarantiBBVA",
-    "postedAt": "2026-03-09T19:01:00.408Z"
-  },
-  {
-    "productId": "vodafone-avantajli",
-    "assetId": "vodafone-avantajli-fixed",
-    "accountId": "account1",
-    "tweetId": "2031098787419058422",
-    "textHash": "aa72087f13557151a735e4d5973a6695",
-    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan.\n#Vodafone #Tarife",
-    "postedAt": "2026-03-09T19:01:00.408Z"
   }
 ]
