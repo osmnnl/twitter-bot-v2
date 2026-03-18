@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2034272194067419242",
+    "textHash": "a3623595cdd6a86ee4ca0b7829be6a44",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. Akbank referans kodu ve banka fırsatı arayanlar bedava Chip-para kazan.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-18T13:25:58.607Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-8390BC38",
+    "accountId": "account1",
+    "tweetId": "2034272155068756386",
+    "textHash": "a36c5f9944346caa0fbbba9d75688c22",
+    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-18T13:25:58.607Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "1c075b0d1cf2015ab882e8988ad483cf",
     "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform kampanya avantajı için bu davet kodunu kullan.\n#Vodafone #FreeZone",
     "postedAt": "2026-03-09T13:16:52.217Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2030961417604510154",
-    "textHash": "b89913d143fb2f75b9ec0ab4d8948b62",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara",
-    "postedAt": "2026-03-09T10:52:42.212Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2030961372494774414",
-    "textHash": "f1e1cf822ab50ce8425d286c30c67564",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan. Ev interneti kampanyası arayanlar için 500 TL Hepsiburada Çeki fırsatı burada.",
-    "postedAt": "2026-03-09T10:52:42.212Z"
   }
 ]
