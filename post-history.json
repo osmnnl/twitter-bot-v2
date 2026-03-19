@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2034536048621961612",
+    "textHash": "a3a27783dcb467fc48d1f4677e38385a",
+    "tweetText": "Getir Finans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir Finans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. ₺500 GetirPara fırsatı, davet kodu arayanlar için burada duruyor.\n#GetirFinans #GetirPara",
+    "postedAt": "2026-03-19T07:05:12.827Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2034535931458343122",
+    "textHash": "490b2e6c35dd4316c0552115a187baf8",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek için bu davet kodunu kullan. Starbucks davet kodu ve Starbucks referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Ikram #Starbucks",
+    "postedAt": "2026-03-19T07:05:12.827Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "c0a075c878b6dd52b238635e2cac975b",
     "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki hediye veya indirim avantajı almak için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
     "postedAt": "2026-03-10T06:59:10.371Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2031252867005268258",
-    "textHash": "d647ae06463d2ea6985495d8f40709a1",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kampanya avantajı için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#GarantiBBVA",
-    "postedAt": "2026-03-10T05:12:42.004Z"
-  },
-  {
-    "productId": "vodafone-freezone",
-    "assetId": "vodafone-freezone-fixed",
-    "accountId": "account1",
-    "tweetId": "2031252840845369585",
-    "textHash": "ff9a6092102bd4d85cf11c23b32eace5",
-    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform hediyesi almak için bu davet kodunu kullan.\n#Vodafone #FreeZone",
-    "postedAt": "2026-03-10T05:12:42.004Z"
   }
 ]
