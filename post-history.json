@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2034659455720112478",
+    "textHash": "beb4ba37b733b90bb3a643d87280f8bc",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan. Banka kampanyası arayanlar, bu link ile 1.000 TL bedava nakit iade fırsatı kazan.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-19T15:03:46.954Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-WJX59LQ66UXS",
+    "accountId": "account1",
+    "tweetId": "2034659413433205014",
+    "textHash": "8f91cb2c98a9ab9715caabff8ef652fe",
+    "tweetText": "Türk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
+    "postedAt": "2026-03-19T15:03:46.954Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "a613642db12b210075434004fa7af0fb",
     "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kazanmak için bu davet kodunu kullan. Pegasus kampanyasında referans kodu ile 2.000 BolBol Puan fırsatı ve avantajı sağlanır.\n#Pegasus #BolBol",
     "postedAt": "2026-03-10T14:56:06.841Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2031358468343644394",
-    "textHash": "41c6e8d38657568c79abfa45fd8224ac",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanmak için bu davet kodunu kullan. Akbank referans kodu arayanlar için bu banka kampanyası 2.500 TL Chip-para fırsatı ve avantajı sunar.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-10T13:14:48.486Z"
-  },
-  {
-    "productId": "vodafone-red",
-    "assetId": "vodafone-red-fixed",
-    "accountId": "account1",
-    "tweetId": "2031358420897640788",
-    "textHash": "5089897e83b5c15ee8e2e7b40dae2b6f",
-    "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı için bu davet kodunu kullan. Vodafone Red tarifelerinde referans kodu ile ek internet avantajı kazan.\n#VodafoneRed #Red",
-    "postedAt": "2026-03-10T13:14:48.486Z"
   }
 ]
