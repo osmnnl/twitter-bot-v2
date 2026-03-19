@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2034462092720283986",
+    "textHash": "3c4ff1c01ee6f1805beb64b30883a54c",
+    "tweetText": "GetirPara\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirPara'ya ilk kez müşteri olurken ₺500 GetirPara için bu davet kodunu kullan. GetirFinans davet kodu ve Getir Finans referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#GetirFinans #GetirPara",
+    "postedAt": "2026-03-19T02:45:13.211Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-MEX68UR13UEE",
+    "accountId": "account1",
+    "tweetId": "2034461969680327015",
+    "textHash": "0e8aa42efa0d16d7c3b8634d15f3686f",
+    "tweetText": "TurkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
+    "postedAt": "2026-03-19T02:45:13.211Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ce4ad9aa58b10e9264925fdfb388ee67",
     "tweetText": "Türk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#ArkadasiniGetir",
     "postedAt": "2026-03-10T02:32:06.438Z"
-  },
-  {
-    "productId": "enpara-sirketim",
-    "assetId": "enpara-sirketim-link",
-    "accountId": "account2",
-    "tweetId": "2031137043900981489",
-    "textHash": "7e741a513c0caeda1c7ccfa2f23d6e8e",
-    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül müşteri ol kampanya avantajı almak için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Ödül fırsatı burada.\n#Enpara #Sirketim",
-    "postedAt": "2026-03-09T22:35:38.068Z"
-  },
-  {
-    "productId": "vodafone-ilk-hattim",
-    "assetId": "vodafone-ilk-hattim-fixed",
-    "accountId": "account1",
-    "tweetId": "2031136992231305343",
-    "textHash": "ffda8053b508803aab344d264b2ddccb",
-    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan.\n#IlkHattim #Vodafone",
-    "postedAt": "2026-03-09T22:35:38.068Z"
   }
 ]
