@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2034646945164124309",
+    "textHash": "b9f93cdec297f4413c7da236ac7ce549",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
+    "postedAt": "2026-03-19T13:18:54.210Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2034646838842642893",
+    "textHash": "25957a19f547a22d0a27673d98e50191",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Ikram #Starbucks",
+    "postedAt": "2026-03-19T13:18:54.210Z"
+  },
+  {
     "productId": "isbank",
     "assetId": "isbank-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "5089897e83b5c15ee8e2e7b40dae2b6f",
     "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı için bu davet kodunu kullan. Vodafone Red tarifelerinde referans kodu ile ek internet avantajı kazan.\n#VodafoneRed #Red",
     "postedAt": "2026-03-10T13:14:48.486Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2031344811005837420",
-    "textHash": "d8e209e0ed6c742d62ff741b4c1638e1",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
-    "postedAt": "2026-03-10T10:49:26.708Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2031344755066466508",
-    "textHash": "503d7b0cc1f5c672ed48a1714ee71939",
-    "tweetText": "TurkNet\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir #TurkNet",
-    "postedAt": "2026-03-10T10:49:26.708Z"
   }
 ]
