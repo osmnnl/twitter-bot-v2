@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2034763442662310293",
+    "textHash": "566d04c897f558ef3bd15bbba04641ee",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
+    "postedAt": "2026-03-19T20:46:43.880Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2034763413419651137",
+    "textHash": "671f19dd45e0bf1a385180095442806c",
+    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. Mobil hat kampanyası arayanlar için İlk 3 Ay 30 GB Hediye fırsatı burada.\n#Vodafone",
+    "postedAt": "2026-03-19T20:46:43.880Z"
+  },
+  {
     "productId": "garanti-bbva",
     "assetId": "garanti-bbva-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "29e9a96aef0eebb640fca64e810b9070",
     "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada. Starbucks referans koduyla üyelikte ikram içecek fırsatı sunulur.",
     "postedAt": "2026-03-10T20:40:41.144Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2031449813816906181",
-    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
-    "postedAt": "2026-03-10T18:58:32.878Z"
-  },
-  {
-    "productId": "hugeicons-pro",
-    "assetId": "hugeicons-pro-link",
-    "accountId": "account1",
-    "tweetId": "2031449773132112073",
-    "textHash": "d8a08caca28a7a57652622983a61ae94",
-    "tweetText": "Hugeicons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHugeicons Pro referans programına başvurarak %30 komisyon avantajı kazanmak için bu referans linkini kullan. Hugeicons Pro veya Huge Icons referans linki arayanlar için bu kampanya %30 gelir fırsatı sağlar.",
-    "postedAt": "2026-03-10T18:58:32.878Z"
   }
 ]
