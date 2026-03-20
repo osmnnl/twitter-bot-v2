@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2034929474987315596",
+    "textHash": "13441c99de74edb8994bb5133215f1e6",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Garanti BBVA davet kodu ve Garanti BBVA referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Bonus #GarantiBBVA",
+    "postedAt": "2026-03-20T08:50:53.247Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2034929444192727104",
+    "textHash": "369192f6dc43bcb7d76faaf9a1c5e16b",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
+    "postedAt": "2026-03-20T08:50:53.247Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "178490466345759fed5f7cce8d034433",
     "tweetText": "Turk Net\nDavet Kodu: WGQ86MQ42KJA\nDavet Linki: https://turk.net/?p=WGQ86MQ42KJA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
     "postedAt": "2026-03-11T08:52:23.469Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2031628386318127395",
-    "textHash": "706e1ef75c4bdc86265af99e571ffbd3",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-11T07:02:26.171Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2031628348716122290",
-    "textHash": "369192f6dc43bcb7d76faaf9a1c5e16b",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
-    "postedAt": "2026-03-11T07:02:26.171Z"
   }
 ]
