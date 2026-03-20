@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2034868915667706127",
+    "textHash": "e94b29c4f5e6a6bc5df2c89353dec415",
+    "tweetText": "Getir\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir'e ilk kez müşteri olurken ₺500 GetirPara için bu davet kodunu kullan. GetirFinans davet kodu ve Getir Finans referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#davetkodu #GetirPara",
+    "postedAt": "2026-03-20T05:17:41.844Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-RSM51AS57PDN",
+    "accountId": "account1",
+    "tweetId": "2034868800081084838",
+    "textHash": "1467a33ed2367c8bab3c62dd0308541d",
+    "tweetText": "Turk Net\nDavet Kodu: RSM51AS57PDN\nDavet Linki: https://turk.net/?p=RSM51AS57PDN\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
+    "postedAt": "2026-03-20T05:17:41.844Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "c74e5694d38926cc54b71f924ed16300",
     "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\nKorendy'e alışverişe başlarken 100 TL İndirim avantajı için bu referans linkini kullan. Bu kozmetik kampanyası ile bedava 100 TL indirim fırsatı kazan.\n#Korendy #KBeauty",
     "postedAt": "2026-03-11T05:14:17.229Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2031567298113265952",
-    "textHash": "cf65db3b4c9330a4ddfddd5f15207f0c",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan. Bu banka kampanyası ile bedava 1.000 TL nakit iade fırsatı kazan.\n#Enpara #NakitIade",
-    "postedAt": "2026-03-11T02:31:28.868Z"
-  },
-  {
-    "productId": "hugeicons-pro",
-    "assetId": "hugeicons-pro-link",
-    "accountId": "account1",
-    "tweetId": "2031567242182226024",
-    "textHash": "aec057274d4f1fb3824e52788a3c3ccf",
-    "tweetText": "Hugeicons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHugeicons'a abonelik veya lisans alırken 30% Commission Rate kampanya avantajı için bu referans linkini kullan. Hugeicons Pro referans linki ve Hugeicons referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Affiliate",
-    "postedAt": "2026-03-11T02:31:28.868Z"
   }
 ]
