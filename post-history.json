@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2034984114344894489",
+    "textHash": "f1656efc16f3023c01b3d1a57485882b",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanmak için bu davet kodunu kullan. Akbank referans kodu veya davet kodu arayanlar, bu banka kampanyası ile 2.500 TL bedava chip-para avantajı kazanır.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-20T13:12:17.355Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2034984064474583205",
+    "textHash": "c0a075c878b6dd52b238635e2cac975b",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki hediye veya indirim avantajı almak için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
+    "postedAt": "2026-03-20T13:12:17.355Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "cddf65a575848b86a72c1e13b26c8f38",
     "tweetText": "Türk Net\nDavet Kodu: [object Object]\nDavet Linki: https://turk.net/?p=[object Object]\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.",
     "postedAt": "2026-03-11T13:14:08.979Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2031707249962364943",
-    "textHash": "0327bd27ac7826f791e50f1a2f1e808d",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Banka kampanyası arayanlar için 1.000 TL Bonus fırsatı burada. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#Bonus #GarantiBBVA",
-    "postedAt": "2026-03-11T10:49:22.699Z"
-  },
-  {
-    "productId": "vodafone-red",
-    "assetId": "vodafone-red-fixed",
-    "accountId": "account1",
-    "tweetId": "2031707208409326054",
-    "textHash": "4d8f227d393293152edec0917af2576b",
-    "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. İlk 3 Ay 30 GB Hediye fırsatı, davet kodu arayanlar için burada duruyor.\n#VodafoneRed #Red",
-    "postedAt": "2026-03-11T10:49:22.699Z"
   }
 ]
