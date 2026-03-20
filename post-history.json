@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2035027291206746123",
+    "textHash": "5553947fd4d00dbe76c171ba0200105c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
+    "postedAt": "2026-03-20T14:50:16.200Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2035027224374722959",
+    "textHash": "8b2e4d367c8c0e30145a193c4ea99c01",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Ikram #Starbucks",
+    "postedAt": "2026-03-20T14:50:16.200Z"
+  },
+  {
     "productId": "akbank",
     "assetId": "akbank-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "8774b65fa778d33d9d37188d6f7dfd5e",
     "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Pegasus davet kodu ve referans linki arayanlar için bu seyahat kampanyası fırsatı burada.\n#Pegasus #BolBol",
     "postedAt": "2026-03-11T14:53:43.120Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2031739852266283145",
-    "textHash": "0baf06ca91e1290da5f1d96d4807e3be",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
-    "postedAt": "2026-03-11T13:14:08.979Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-[object Object]",
-    "accountId": "account1",
-    "tweetId": "2031739807538290888",
-    "textHash": "cddf65a575848b86a72c1e13b26c8f38",
-    "tweetText": "Türk Net\nDavet Kodu: [object Object]\nDavet Linki: https://turk.net/?p=[object Object]\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.",
-    "postedAt": "2026-03-11T13:14:08.979Z"
   }
 ]
