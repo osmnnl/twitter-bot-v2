@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2035096105139282280",
+    "textHash": "b3a6a85d9a74d8174c74f562a687f2a0",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-20T20:47:54.137Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-REE30VK13POU",
+    "accountId": "account1",
+    "tweetId": "2035096073937854835",
+    "textHash": "b365bb8a1a71c1005858f5c32e0e18c7",
+    "tweetText": "TurkNet\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTurkNet'e kayıt olurken 1 Ay Ücretsiz İnternet avantajı için bu davet kodunu kullan. TürkNet referans linki arayanlar için ilk ay bedava fiber internet fırsatı burada.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-20T20:47:54.137Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "67afa6551d9c723f64b09c9601eb048d",
     "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek için bu davet kodunu kullan. 1 Adet İkram İçecek fırsatı, davet kodu arayanlar için burada duruyor.\n#Starbucks #Ikram",
     "postedAt": "2026-03-11T20:39:54.865Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2031831308809519182",
-    "textHash": "4bb8e477802ebae59c0f132963299168",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara #Akbank",
-    "postedAt": "2026-03-11T19:00:29.661Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-BOC71FY10YAK",
-    "accountId": "account1",
-    "tweetId": "2031831266497347745",
-    "textHash": "4e62e440826c490e7d5ff8bb4bc7939a",
-    "tweetText": "TurkNet\nDavet Kodu: BOC71FY10YAK\nDavet Linki: https://turk.net/?p=BOC71FY10YAK\n\nTurkNet'e kayıt olurken veya başvuru yaparken bu davet kodunu kullanarak 1 Ay Ücretsiz İnternet kazan. Fiber internet kampanyası ve TürkNet referans linki arayanlar için bu bedava fırsat.",
-    "postedAt": "2026-03-11T19:00:29.661Z"
   }
 ]
