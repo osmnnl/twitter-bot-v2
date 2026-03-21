@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2035211447764959722",
+    "textHash": "74a90811885d92cbfb0826328664550f",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara #Akbank",
+    "postedAt": "2026-03-21T02:30:02.775Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-D9E86991",
+    "accountId": "account1",
+    "tweetId": "2035211407013114131",
+    "textHash": "2461b16abd606aa58f45a2cbadc18077",
+    "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\n\nPegasus'a üye olurken veya bilet alırken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Bu seyahat kampanyasında 2.000 BolBol Puan kazanmak için referans linki veya davet kodunu kullanın.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-21T02:30:02.775Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "c0a075c878b6dd52b238635e2cac975b",
     "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki hediye veya indirim avantajı almak için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
     "postedAt": "2026-03-12T02:37:21.254Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2031879410765169151",
-    "textHash": "defd9f6024b9a6acef9cc947ee5d7792",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. 500 TL MaxiPuan fırsatı, davet kodu arayanlar için burada duruyor.\n#MaxiPuan #IsBankasi",
-    "postedAt": "2026-03-11T22:32:32.029Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-BOC71FY10YAK",
-    "accountId": "account1",
-    "tweetId": "2031879329626435615",
-    "textHash": "0e80df413a8e2154a040eff4b1ea24d9",
-    "tweetText": "TürkNet\nDavet Kodu: BOC71FY10YAK\nDavet Linki: https://turk.net/?p=BOC71FY10YAK\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#ArkadasiniGetir",
-    "postedAt": "2026-03-11T22:32:32.029Z"
   }
 ]
