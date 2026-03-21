@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2035495923548303441",
+    "textHash": "fb4c5bdbb75147875cdfa47c3a03ec8e",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-21T22:31:30.415Z"
+  },
+  {
+    "productId": "vodafone-ilk-hattim",
+    "assetId": "vodafone-ilk-hattim-fixed",
+    "accountId": "account1",
+    "tweetId": "2035495881282306138",
+    "textHash": "156efd7eea75cf72377ec7f6af1e4f04",
+    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken İlk 3 Ay 30 GB Hediye fırsatı için bu davet kodunu kullan. Davet kodu veya referans linki arayanlar bu mobil hat kampanyası ile bedava avantaj kazanır.",
+    "postedAt": "2026-03-21T22:31:30.415Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "97994b353230b9c9245fa70d6b44baec",
     "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada.\n#BolBol #Pegasus",
     "postedAt": "2026-03-12T22:32:28.610Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2032210380609511707",
-    "textHash": "ad5aed17a56213037a93e9a8165634f8",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanmak için bu davet kodunu kullan. Akbank kampanya veya referans kodu arayanlara 2.500 TL Chip-para fırsatı ve büyük bir avantaj sunuyor.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-12T20:41:44.639Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2032210331812946387",
-    "textHash": "dd82fc384c2e460b0197839e39fc4bda",
-    "tweetText": "Türk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
-    "postedAt": "2026-03-12T20:41:44.639Z"
   }
 ]
