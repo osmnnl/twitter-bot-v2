@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2035378025387249668",
+    "textHash": "2d5f1ead0e82db7c19c296f8664884c5",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank",
+    "postedAt": "2026-03-21T14:32:57.611Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-REE30VK13POU",
+    "accountId": "account1",
+    "tweetId": "2035377991400693933",
+    "textHash": "99d2bf2696377253a5dd8d2c31c7a265",
+    "tweetText": "Türk Net\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-21T14:32:57.611Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ff6118b3f27db8609f8586a18ad11402",
     "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Starbucks davet kodu ve Starbucks referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Ikram #Starbucks",
     "postedAt": "2026-03-12T15:11:37.165Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2032112189830471857",
-    "textHash": "debce4cf7e25856284ae1fb68ebce4f1",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. İş Bankası davet kodu ve İş Bankası referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#MaxiPuan #IsBankasi",
-    "postedAt": "2026-03-12T13:14:34.525Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-BOC71FY10YAK",
-    "accountId": "account1",
-    "tweetId": "2032112093210587417",
-    "textHash": "c9a510fd55bb160ab909ec5711d6b5ed",
-    "tweetText": "Turk Net\nDavet Kodu: BOC71FY10YAK\nDavet Linki: https://turk.net/?p=BOC71FY10YAK\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
-    "postedAt": "2026-03-12T13:14:34.525Z"
   }
 ]
