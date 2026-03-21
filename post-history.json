@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2035433237862817930",
+    "textHash": "e82e7e1ab32d4817323a0e12ffaa283d",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan.\nŞirket sahipleri için bu banka kampanyası 1.000 TL hediye fırsatı ve bedava avantaj sunuyor.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-21T18:44:27.255Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2035433195206811764",
+    "textHash": "d59ae7f83c465674c392af04f97ab3a7",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye başvurup 500 TL Hepsiburada Çeki hediye kazanmak için davet kodunu kullan. Ev interneti kampanyası arayanlara referans linki ile bu fırsat ve avantaj sunuluyor.",
+    "postedAt": "2026-03-21T18:44:27.255Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "06bc0e01834382aaabf26d821d73e4d9",
     "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
     "postedAt": "2026-03-12T19:01:53.195Z"
-  },
-  {
-    "productId": "enpara-sirketim",
-    "assetId": "enpara-sirketim-link",
-    "accountId": "account2",
-    "tweetId": "2032146443679494333",
-    "textHash": "3ad882da666cee84c435add6eb39f0cd",
-    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Şirket sahipleri için banka kampanyası arayanlara özel 1.000 TL ödül fırsatı burada.\n#Enpara #Sirketim",
-    "postedAt": "2026-03-12T17:02:48.809Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2032146403791613974",
-    "textHash": "7ab13759bf6384b840788e8bcbdc6349",
-    "tweetText": "Turk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurk Net'e kayıt olurken veya başvuru yaparken bu davet koduyla 1 Ay Ücretsiz İnternet kazan. Fiber internet kampanyası, TürkNet referans linki arayanlara bedava bu fırsat.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-12T17:02:48.809Z"
   }
 ]
