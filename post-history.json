@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2035737730915950801",
+    "textHash": "49f0b1a75b575214937a122700a4740f",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
+    "postedAt": "2026-03-22T14:38:02.272Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-SQM64SQ15QPA",
+    "accountId": "account1",
+    "tweetId": "2035737673370120490",
+    "textHash": "2f3f5ff13dc856162262be206907a1ff",
+    "tweetText": "TurkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#TurkNet",
+    "postedAt": "2026-03-22T14:38:02.272Z"
+  },
+  {
     "productId": "enpara-bireysel",
     "assetId": "enpara-bireysel-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "4ea8df3042dd3310b0a3ea9edcfd411f",
     "tweetText": "Huge Icons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHuge Icons'a abonelik veya lisans alırken 30% Commission Rate lisans ve gelir avantajı almak için bu referans linkini kullan. 30% Commission Rate fırsatı, referans linki arayanlar için burada duruyor.\n#HugeiconsPro #Affiliate",
     "postedAt": "2026-03-13T15:11:30.782Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2032474533462937763",
-    "textHash": "6b64acacfe7615e53261233de3679d2e",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz #Saglik",
-    "postedAt": "2026-03-13T13:12:12.351Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-MEX68UR13UEE",
-    "accountId": "account1",
-    "tweetId": "2032474481441034621",
-    "textHash": "0efe55b85ac5abb6b573cf4b694da15f",
-    "tweetText": "TurkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TürkNet internet kampanyası arayanlara bedava internet avantajı bu referans linkinde.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-13T13:12:12.351Z"
   }
 ]
