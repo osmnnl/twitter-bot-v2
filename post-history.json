@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2035615371978289607",
+    "textHash": "19cdb3526c9188594f0e2d613a73b8a2",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan.\nBu banka kampanyası ile bedava 1.000 TL fırsatı kazan.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-22T05:20:53.616Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2035615325010481334",
+    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
+    "postedAt": "2026-03-22T05:20:53.616Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "b8b444349538090876023b58bb880947",
     "tweetText": "Türk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
     "postedAt": "2026-03-13T05:15:23.625Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2032301723818021362",
-    "textHash": "33dfb8ebc306fa6e8cd35dc499dedf64",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan. Banka kampanyası, davet kodu veya referans kodu arayanlar için 1.000 TL Nakit İade fırsatı burada.\n#Enpara #NakitIade",
-    "postedAt": "2026-03-13T02:35:05.772Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2032301679584878988",
-    "textHash": "020e512212e17b34389bf5032ebe96d5",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
-    "postedAt": "2026-03-13T02:35:05.772Z"
   }
 ]
