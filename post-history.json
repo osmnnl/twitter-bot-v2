@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2035818533167493584",
+    "textHash": "a0b78e8440fbf84f294825ebb1f67d61",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade kampanya avantajı için bu referans linkini kullan. 1.000 TL Nakit İade fırsatı, referans linki arayanlar için burada duruyor.\n#NakitIade #Enpara",
+    "postedAt": "2026-03-22T20:35:17.632Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-REE30VK13POU",
+    "accountId": "account1",
+    "tweetId": "2035818487973896545",
+    "textHash": "c3e2a98b432828fd073299b4f9f30da4",
+    "tweetText": "Türk Net\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
+    "postedAt": "2026-03-22T20:35:17.632Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "480983e6ffca12a908fd3a528b7f4ea5",
     "tweetText": "Turk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#ArkadasiniGetir #TurkNet",
     "postedAt": "2026-03-13T20:41:53.205Z"
-  },
-  {
-    "productId": "getir-finans",
-    "assetId": "getir-finans-fixed",
-    "accountId": "account2",
-    "tweetId": "2032551218648654141",
-    "textHash": "4d9dc4de24e9abdf0b2457be94d90885",
-    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara kazanmak için bu davet kodunu kullan. Banka kampanyası ve referans linki arayanlara bedava GetirPara fırsatı burada.\n#GetirFinans #GetirPara #davetkodu",
-    "postedAt": "2026-03-13T18:52:08.072Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2032551117603619317",
-    "textHash": "020e512212e17b34389bf5032ebe96d5",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
-    "postedAt": "2026-03-13T18:52:08.072Z"
   }
 ]
