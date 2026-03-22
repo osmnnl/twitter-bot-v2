@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2035849888832049470",
+    "textHash": "84ea8af8c46148eeb58689fc5d2ac98c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
+    "postedAt": "2026-03-22T22:31:57.855Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-8390BC38",
+    "accountId": "account1",
+    "tweetId": "2035849829050655050",
+    "textHash": "293924b8e236471abadb0cdaaff95f13",
+    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken bu davet koduyla 2.000 BolBol Puan kazan. Bu kampanya ile bedava BolBol puan avantajı veya referans linki fırsatı burada.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-22T22:31:57.855Z"
+  },
+  {
     "productId": "enpara-bireysel",
     "assetId": "enpara-bireysel-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ff6118b3f27db8609f8586a18ad11402",
     "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Starbucks davet kodu ve Starbucks referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Ikram #Starbucks",
     "postedAt": "2026-03-13T22:33:32.693Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2032558908363960393",
-    "textHash": "b9f93cdec297f4413c7da236ac7ce549",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
-    "postedAt": "2026-03-13T20:41:53.205Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-SQM64SQ15QPA",
-    "accountId": "account1",
-    "tweetId": "2032558866345476532",
-    "textHash": "480983e6ffca12a908fd3a528b7f4ea5",
-    "tweetText": "Turk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#ArkadasiniGetir #TurkNet",
-    "postedAt": "2026-03-13T20:41:53.205Z"
   }
 ]
