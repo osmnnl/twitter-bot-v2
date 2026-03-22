@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2035660541016916265",
+    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-22T08:58:39.130Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-8390BC38",
+    "accountId": "account1",
+    "tweetId": "2035660493331857810",
+    "textHash": "9d26c884e3663a2c11497e0cba63e193",
+    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor.\n#BolBol #Pegasus",
+    "postedAt": "2026-03-22T08:58:39.130Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ac27bdb880e0b0253c4dc08272f3f2b3",
     "tweetText": "Turk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
     "postedAt": "2026-03-13T09:02:40.706Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2032381758600040951",
-    "textHash": "b89913d143fb2f75b9ec0ab4d8948b62",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara",
-    "postedAt": "2026-03-13T07:02:46.064Z"
-  },
-  {
-    "productId": "vodafone-ilk-hattim",
-    "assetId": "vodafone-ilk-hattim-fixed",
-    "accountId": "account1",
-    "tweetId": "2032381720029249690",
-    "textHash": "9bb75c485f67689ef9cf37df2df97939",
-    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı almak için bu davet kodunu kullan.\n#Vodafone #IlkHattim",
-    "postedAt": "2026-03-13T07:02:46.064Z"
   }
 ]
