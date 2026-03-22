@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2035772556117238022",
+    "textHash": "3e99a4861674b13f5df8588461343645",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#MaxiPuan #IsBankasi",
+    "postedAt": "2026-03-22T16:37:50.810Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2035772493303275561",
+    "textHash": "a1f507ae65a36635b4204761f4b8528e",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı için bu davet kodunu kullan. Starbucks referans kodu veya referans linki arayanlar bu kampanya ile bedava içecek avantajı kazanır.\n#Starbucks #Ikram",
+    "postedAt": "2026-03-22T16:37:50.810Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "bbc8a179a1c15e67d44b8ac2cc948adc",
     "tweetText": "Türk Net\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
     "postedAt": "2026-03-13T17:08:29.783Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2032504001095434373",
-    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-13T15:11:30.782Z"
-  },
-  {
-    "productId": "hugeicons-pro",
-    "assetId": "hugeicons-pro-link",
-    "accountId": "account1",
-    "tweetId": "2032503957239771474",
-    "textHash": "4ea8df3042dd3310b0a3ea9edcfd411f",
-    "tweetText": "Huge Icons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHuge Icons'a abonelik veya lisans alırken 30% Commission Rate lisans ve gelir avantajı almak için bu referans linkini kullan. 30% Commission Rate fırsatı, referans linki arayanlar için burada duruyor.\n#HugeiconsPro #Affiliate",
-    "postedAt": "2026-03-13T15:11:30.782Z"
   }
 ]
