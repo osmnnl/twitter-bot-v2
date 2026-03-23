@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2036158261456417238",
+    "textHash": "8e822db82034ab19a9edf840542160a7",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Banka kampanyası arayanlar için 1.000 TL Bonus fırsatı burada. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-23T19:03:11.423Z"
+  },
+  {
+    "productId": "vodafone-freezone",
+    "assetId": "vodafone-freezone-fixed",
+    "accountId": "account1",
+    "tweetId": "2036158226446585919",
+    "textHash": "1c075b0d1cf2015ab882e8988ad483cf",
+    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform kampanya avantajı için bu davet kodunu kullan.\n#Vodafone #FreeZone",
+    "postedAt": "2026-03-23T19:03:11.423Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "301c6c8e8340ad0771a75f5225d4484f",
     "tweetText": "TürkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
     "postedAt": "2026-03-14T18:48:47.753Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2032870338216759535",
-    "textHash": "8c32003ac901d42b4c6b91e55c2fd037",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Banka kampanyası ve 1.000 TL Bonus fırsatı arayanlar için büyük bir avantaj ve referans kodu ile bedava bonus kazanma şansı burada.\n#GarantiBBVA #Bonus",
-    "postedAt": "2026-03-14T16:39:16.759Z"
-  },
-  {
-    "productId": "vodafone-ilk-hattim",
-    "assetId": "vodafone-ilk-hattim-fixed",
-    "accountId": "account1",
-    "tweetId": "2032870305299861890",
-    "textHash": "ee5546c59322d664002d1aee1a0e8ea2",
-    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye kampanya avantajı için bu davet kodunu kullan.\n#Vodafone #IlkHattim",
-    "postedAt": "2026-03-14T16:39:16.759Z"
   }
 ]
