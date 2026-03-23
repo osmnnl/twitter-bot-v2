@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2036124275464347756",
+    "textHash": "3bf8bdf8e6d84282c70cace83c635678",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Nakit İade fırsatı burada.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-23T15:02:06.833Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-RSM51AS57PDN",
+    "accountId": "account1",
+    "tweetId": "2036124233957515374",
+    "textHash": "0b4146bdd417885e10046cedbe7bd364",
+    "tweetText": "TürkNet\nDavet Kodu: RSM51AS57PDN\nDavet Linki: https://turk.net/?p=RSM51AS57PDN\nTürkNet'e abone olurken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu, referans linki ile fiber internette ilk ay bedava avantajı yakala.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-23T15:02:06.833Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "77e9a5dab169c6b33c0f2f8ad99d9892",
     "tweetText": "Türk Net\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
     "postedAt": "2026-03-14T14:35:30.046Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2032818851943981196",
-    "textHash": "2980c374528a4a5ef6ae657284e9b5b1",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. İş Bankası davet kodu ve İş Bankası referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#IsBankasi",
-    "postedAt": "2026-03-14T13:04:50.327Z"
-  },
-  {
-    "productId": "korendy",
-    "assetId": "korendy-link",
-    "accountId": "account1",
-    "tweetId": "2032818781764931694",
-    "textHash": "c032e770bbafb61df5047e6af615cebf",
-    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim indirimi almak için bu referans linkini kullan. 100 TL İndirim fırsatı, referans linki arayanlar için burada duruyor.\n#Korendy #KBeauty",
-    "postedAt": "2026-03-14T13:04:50.327Z"
   }
 ]
