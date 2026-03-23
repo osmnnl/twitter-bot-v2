@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2035921659538936264",
+    "textHash": "d1fa0b62a00f0208e4cb75c44133c762",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Bu banka kampanyası ile 1.000 TL Bonus fırsatı ve avantajı elde et, referans kodu arayanlar için bedava bonus burada.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-23T02:46:09.692Z"
+  },
+  {
+    "productId": "hugeicons-pro",
+    "assetId": "hugeicons-pro-link",
+    "accountId": "account1",
+    "tweetId": "2035921626856816791",
+    "textHash": "d868c4dbe019fff156c212f89daa41c3",
+    "tweetText": "Hugeicons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHugeicons Pro affiliate programına %30 Komisyon Oranı kazanmak için bu referans linkini kullan. Premium ikon kütüphanesi satışlarından %30 gelir avantajı fırsatını bu kampanya ile yakala.\n#HugeiconsPro #Affiliate",
+    "postedAt": "2026-03-23T02:46:09.692Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "84e8826922885070264b23a78153e225",
     "tweetText": "TurkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir #TurkNet",
     "postedAt": "2026-03-14T02:33:24.440Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2032592764945264885",
-    "textHash": "cc3ee9ce3786803054a9ff12e50eb382",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade için bu referans linkini kullan. Enpara Bireysel referans linki ve Enpara Bireysel referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Enpara #NakitIade",
-    "postedAt": "2026-03-13T22:33:32.693Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2032592725502030142",
-    "textHash": "ff6118b3f27db8609f8586a18ad11402",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Starbucks davet kodu ve Starbucks referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Ikram #Starbucks",
-    "postedAt": "2026-03-13T22:33:32.693Z"
   }
 ]
