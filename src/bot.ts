@@ -220,7 +220,6 @@ async function generateTweetText(
         product,
         campaign,
         assetText: resolvedAsset.assetText,
-        recentTweets: recentTexts,
         maxAttempts: 2,
       } as const;
 

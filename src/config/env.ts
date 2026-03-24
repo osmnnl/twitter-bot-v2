@@ -47,7 +47,7 @@ function twitterCredentials(envPrefix: string, required = false): TwitterCredent
 
 export const env = {
   geminiApiKey: () => readEnv("GEMINI_API_KEY", false),
-  geminiModel: () => readEnv("GEMINI_MODEL", false) || "gemini-2.5-flash",
+  geminiModel: () => readEnv("GEMINI_MODEL", false) || "gemini-1.5-flash",
   stateBranch: () => readEnv("STATE_BRANCH", false) || "state",
   botDryRun: () => readBooleanEnv("BOT_DRY_RUN", true),
   botDisableJitter: () => readBooleanEnv("BOT_DISABLE_JITTER", false),

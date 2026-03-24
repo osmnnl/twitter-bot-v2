@@ -37,7 +37,10 @@ export class AiGenerator {
 
   async generateTweet(input: GenerateTweetInput): Promise<GeneratedTweet> {
     const modelName = input.modelName ?? this.modelName;
-    const model = this.client.getGenerativeModel({ model: modelName });
+    const model = this.client.getGenerativeModel({ 
+      model: modelName,
+      generationConfig: { temperature: 0.8 }
+    });
     const maxAttempts = input.maxAttempts ?? 2;
 
     for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
@@ -62,7 +65,10 @@ export class AiGenerator {
     options: { maxAttempts?: number; modelName?: string; maxChars?: number } = {},
   ): Promise<GeneratedTweet> {
     const modelName = options.modelName ?? this.modelName;
-    const model = this.client.getGenerativeModel({ model: modelName });
+    const model = this.client.getGenerativeModel({ 
+      model: modelName,
+      generationConfig: { temperature: 0.8 }
+    });
     const maxAttempts = options.maxAttempts ?? 2;
     const maxChars = options.maxChars;
 
