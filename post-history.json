@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2036391530122944685",
+    "textHash": "a63efac7b22bf936989e7dbc4e509457",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanmak için bu davet kodunu kullan. Bu banka kampanyası ile yeni müşteri fırsatını yakala, referans kodu avantajı ile bedava chip-para kazan.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-24T08:59:20.719Z"
+  },
+  {
+    "productId": "vodafone-red",
+    "assetId": "vodafone-red-fixed",
+    "accountId": "account1",
+    "tweetId": "2036391479204057539",
+    "textHash": "7b68128f295b9b44e924d38a47f8d570",
+    "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı için bu davet kodunu kullan. Bu mobil hat kampanyasında referans linki ile ek internet avantajı kazan.\n#VodafoneRed #Red",
+    "postedAt": "2026-03-24T08:59:20.719Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "8937d8551fc1c7c764beadef79fcd41f",
     "tweetText": "Türk Net\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#ArkadasiniGetir",
     "postedAt": "2026-03-15T08:44:56.945Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033079557159317542",
-    "textHash": "f3afc5324eaf22a52168f76b785d1526",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan kampanya avantajı için bu davet kodunu kullan. İş Bankası davet kodu ve İş Bankası referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#MaxiPuan",
-    "postedAt": "2026-03-15T07:06:24.819Z"
-  },
-  {
-    "productId": "vodafone-avantajli",
-    "assetId": "vodafone-avantajli-fixed",
-    "accountId": "account1",
-    "tweetId": "2033079490838937728",
-    "textHash": "9334d6b0a48da0268449962eb13185e5",
-    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. İlk 3 Ay 30 GB Hediye fırsatı, davet kodu arayanlar için burada duruyor.\n#Tarife",
-    "postedAt": "2026-03-15T07:06:24.819Z"
   }
 ]
