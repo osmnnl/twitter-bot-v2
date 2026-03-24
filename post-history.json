@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2036489716401578441",
+    "textHash": "3f2fd78e7bdfa2c57d1d20b10d4882cd",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül müşteri ol kampanya avantajı almak için bu referans linkini kullan.\n#Sirketim #Enpara",
+    "postedAt": "2026-03-24T17:05:55.892Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-RSM51AS57PDN",
+    "accountId": "account1",
+    "tweetId": "2036489711947227462",
+    "textHash": "ef5532f4700288db0001a9e354958515",
+    "tweetText": "Türk Net\nDavet Kodu: RSM51AS57PDN\nDavet Linki: https://turk.net/?p=RSM51AS57PDN\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#ArkadasiniGetir #TurkNet",
+    "postedAt": "2026-03-24T17:05:55.892Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "990eda1e2cf9b4a725776c12ced3f2ac",
     "tweetText": "Turk Net\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
     "postedAt": "2026-03-15T16:39:00.244Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033215851478884379",
-    "textHash": "03884d5063f98428d68ec04a732019f9",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#IsBankasi #MaxiPuan",
-    "postedAt": "2026-03-15T14:36:20.929Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2033215802271264986",
-    "textHash": "5bcc2bb46f0cbb26309655b5b51c5efc",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye başvururken bu davet kodunu kullan, 500 TL Hepsiburada Çeki kazan. Ev interneti kampanyası arayanlara bedava hediye çeki fırsatı sunar.\n#VodafoneEvInternet #EvInterneti",
-    "postedAt": "2026-03-15T14:36:20.929Z"
   }
 ]
