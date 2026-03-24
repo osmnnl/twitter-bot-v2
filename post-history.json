@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2036317992313634887",
+    "textHash": "86b161b4769c617b2208ad7c87b5be97",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül için bu referans linkini kullan. Şirket sahipleri için banka kampanyası ve 1.000 TL avantaj fırsatı burada.\n#Enpara #Sirketim",
+    "postedAt": "2026-03-24T05:25:09.424Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-MEX68UR13UEE",
+    "accountId": "account1",
+    "tweetId": "2036317945761050898",
+    "textHash": "9c2ad21de04e03c330725dd173cc0080",
+    "tweetText": "TurkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#ArkadasiniGetir",
+    "postedAt": "2026-03-24T05:25:09.424Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "49b378b49bbbfb331222499352c22adb",
     "tweetText": "Hugeicons Pro\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHugeicons Pro affiliate programına katılırken %30 komisyon oranı kazan. Bu referans linki ile premium Hugeicons ikon kütüphanesi için bir gelir fırsatı ve avantajlı bir kampanya yakala.\n#HugeiconsPro #Affiliate",
     "postedAt": "2026-03-15T05:38:46.616Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2033025992701170065",
-    "textHash": "9c89a04e9d0443d48a36307d0dbd3b36",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kampanya avantajı için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#Bonus",
-    "postedAt": "2026-03-15T02:54:05.151Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2033025950829473962",
-    "textHash": "8b2e4d367c8c0e30145a193c4ea99c01",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı almak için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Ikram #Starbucks",
-    "postedAt": "2026-03-15T02:54:05.151Z"
   }
 ]
