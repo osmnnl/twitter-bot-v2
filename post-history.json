@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2036906414237777923",
+    "textHash": "3bf8bdf8e6d84282c70cace83c635678",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Nakit İade fırsatı burada.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-25T19:03:44.150Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-8390BC38",
+    "accountId": "account1",
+    "tweetId": "2036906409393299487",
+    "textHash": "d03b0ddc838e058fdaf9a902256c2fc6",
+    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada. Pegasus kampanyasında havuz kodu ile BolBol puan.",
+    "postedAt": "2026-03-25T19:03:44.150Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "709612843aabcde1418f95b17ff1fa5e",
     "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nEv internetine başvururken 500 TL Hepsiburada Çeki hediye kazanmak için bu davet kodunu kullan. Bu kampanya ile bedava fırsat ve avantaj senin olsun.\n#VodafoneEvInternet",
     "postedAt": "2026-03-16T19:12:36.696Z"
-  },
-  {
-    "productId": "enpara-sirketim",
-    "assetId": "enpara-sirketim-link",
-    "accountId": "account2",
-    "tweetId": "2033592885053169709",
-    "textHash": "11325cbbb3fdf760dea8fe19066b45d5",
-    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Bu banka kampanyası ile şirket sahiplerine özel 1.000 TL fırsatı ve avantajı burada.\n#Enpara #Sirketim",
-    "postedAt": "2026-03-16T17:08:33.856Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-IVJ21MS54QOV",
-    "accountId": "account1",
-    "tweetId": "2033592840107004084",
-    "textHash": "b22ba9dc3be8e3654e6da889fa6b3081",
-    "tweetText": "TurkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
-    "postedAt": "2026-03-16T17:08:33.856Z"
   }
 ]
