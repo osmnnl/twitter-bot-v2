@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2036646741206786383",
+    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-25T02:42:54.099Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-8390BC38",
+    "accountId": "account1",
+    "tweetId": "2036646736542752906",
+    "textHash": "deba8a51f7a36a6c20d977c7267e1dbd",
+    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-25T02:42:54.099Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "b9e5b15d2e15952353b20929d0d31437",
     "tweetText": "Huge Icons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHuge Icons'a abonelik veya lisans alırken 30% Commission Rate için bu referans linkini kullan. İkon kütüphanesi kampanyası arayanlar için 30% Commission Rate fırsatı burada.\n#Affiliate #HugeiconsPro",
     "postedAt": "2026-03-16T02:54:31.768Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033311651802251508",
-    "textHash": "e466a4b4c5bf509f528c192e07f84bf4",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. Akbank referans kodu ve banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı ve bedava avantaj kazan.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-15T22:34:15.008Z"
-  },
-  {
-    "productId": "pegasus",
-    "assetId": "pegasus-CF14CE31",
-    "accountId": "account1",
-    "tweetId": "2033311624853872735",
-    "textHash": "bc9f1dcc92b7938b16711b52ebc29f74",
-    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. Pegasus davet kodu ve Pegasus referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Pegasus",
-    "postedAt": "2026-03-15T22:34:15.008Z"
   }
 ]
