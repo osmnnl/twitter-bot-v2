@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-sirketim",
+    "assetId": "enpara-sirketim-link",
+    "accountId": "account2",
+    "tweetId": "2036943681287082304",
+    "textHash": "f3700933cf79a7e8f8a335eddcd4ef46",
+    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül için bu referans linkini kullan. 1.000 TL Ödül fırsatı, referans linki arayanlar için burada duruyor.\n#Sirketim #Enpara",
+    "postedAt": "2026-03-25T22:42:49.042Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-IVJ21MS54QOV",
+    "accountId": "account1",
+    "tweetId": "2036943675553370271",
+    "textHash": "c270f97030810503876453a044d4055e",
+    "tweetText": "TürkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#ArkadasiniGetir",
+    "postedAt": "2026-03-25T22:42:49.042Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "1e83f0f9c9fc3c7c946cc6becfa04bed",
     "tweetText": "Türk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
     "postedAt": "2026-03-16T22:40:01.394Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033649345384296934",
-    "textHash": "fb4c5bdbb75147875cdfa47c3a03ec8e",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-16T20:50:53.217Z"
-  },
-  {
-    "productId": "pegasus",
-    "assetId": "pegasus-8390BC38",
-    "accountId": "account1",
-    "tweetId": "2033649314770096441",
-    "textHash": "d37b85ba1d87f62c5b475ae83378c005",
-    "tweetText": "Pegasus\nDavet Kodu: 8390BC38\nDavet Linki: https://flyp.gs/8390BC38\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. Pegasus davet kodu ve Pegasus referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#BolBol",
-    "postedAt": "2026-03-16T20:50:53.217Z"
   }
 ]
