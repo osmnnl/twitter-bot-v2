@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2036702739468529926",
+    "textHash": "cc3ee9ce3786803054a9ff12e50eb382",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade için bu referans linkini kullan. Enpara Bireysel referans linki ve Enpara Bireysel referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-25T07:10:24.433Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-55AFC5CC",
+    "accountId": "account1",
+    "tweetId": "2036702734582169688",
+    "textHash": "366e7980dfb7037d26dfca26db528876",
+    "tweetText": "Pegasus\nDavet Kodu: 55AFC5CC\nDavet Linki: https://flyp.gs/55AFC5CC\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-25T07:10:24.433Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "c717022d791531a935f574231fa13dc5",
     "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek için bu davet kodunu kullan. Starbucks referans kodu ve linki arayanlara özel, bedava ikram içecek kampanya fırsatı ile avantaj kazan.\n#Starbucks #Ikram",
     "postedAt": "2026-03-16T07:26:57.161Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2033427448256180236",
-    "textHash": "48653f4e3655b98307d8a5579136117e",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Garanti BBVA referans kodu ve banka kampanyası arayanlar için 1.000 TL Bonus fırsatı ile bedava avantaj kazan.\n#GarantiBBVA #Bonus",
-    "postedAt": "2026-03-16T05:51:04.180Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-MEX68UR13UEE",
-    "accountId": "account1",
-    "tweetId": "2033427415511212187",
-    "textHash": "f8ef46d0d72d838cbc4c16ebf7f037fe",
-    "tweetText": "Turk Net\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-16T05:51:04.180Z"
   }
 ]
