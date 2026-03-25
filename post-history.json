@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2036831239198413210",
+    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-25T15:06:00.643Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-D9E86991",
+    "accountId": "account1",
+    "tweetId": "2036831234257481939",
+    "textHash": "204b604032a751f1c0331a93593562cb",
+    "tweetText": "Pegasus\nDavet Kodu: D9E86991\nDavet Linki: https://flyp.gs/D9E86991\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. Pegasus davet kodu ve Pegasus referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Pegasus",
+    "postedAt": "2026-03-25T15:06:00.643Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "8e41abfb450df095ece5cbd9cc536b8d",
     "tweetText": "Vodafone Red\nDavet Kodu: RED3PV6I8NV\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=RED3PV6I8NV&cid=perf-ambaff\n\nVodafone Red'e yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı almak için bu davet kodunu kullan. Mobil hat kampanyası arayanlar için İlk 3 Ay 30 GB Hediye fırsatı burada.\n#VodafoneRed",
     "postedAt": "2026-03-16T15:06:43.853Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033546006323675641",
-    "textHash": "a99e9731c008f3655d947473ce3c00a0",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. 500 TL MaxiPuan fırsatı, davet kodu arayanlar için burada duruyor.\n#MaxiPuan #IsBankasi",
-    "postedAt": "2026-03-16T13:26:09.988Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-MEX68UR13UEE",
-    "accountId": "account1",
-    "tweetId": "2033545951852302508",
-    "textHash": "8b7065c31e012f1d61f0d6246cee37ef",
-    "tweetText": "TurkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 ay bedava fiber internet için bu davet kodunu kullan. TürkNet referans linki arayanlara bu fırsat, internet kampanyası avantajı sunar.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-16T13:26:09.988Z"
   }
 ]
