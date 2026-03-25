@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2036786635766137106",
+    "textHash": "64200943da23a96f7bdcbdf53c3b61b7",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. Enpara Bireysel referans linki ve Enpara Bireysel referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-25T10:54:46.639Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-CEJ52MV83CQC",
+    "accountId": "account1",
+    "tweetId": "2036786631110529208",
+    "textHash": "1918681516f3d372949fb0231d7027a1",
+    "tweetText": "Turk Net\nDavet Kodu: CEJ52MV83CQC\nDavet Linki: https://turk.net/?p=CEJ52MV83CQC\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
+    "postedAt": "2026-03-25T10:54:46.639Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "5d32b74e44e14be248c28ea6bbb56807",
     "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kazanmak için bu referans linkini kullan. Kozmetik kampanyası ve bedava fırsat arayanlara 100 TL indirim avantajı burada.\n#Korendy #KBeauty",
     "postedAt": "2026-03-16T10:59:32.617Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033472608507695133",
-    "textHash": "67042e2995de3314ea23c343060bf3c8",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-16T09:04:27.888Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-IVJ21MS54QOV",
-    "accountId": "account1",
-    "tweetId": "2033472566153584945",
-    "textHash": "a6037cc53b9ec20aee03daaff31ee68a",
-    "tweetText": "TurkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
-    "postedAt": "2026-03-16T09:04:27.888Z"
   }
 ]
