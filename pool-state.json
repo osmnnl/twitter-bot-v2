@@ -2,6 +2,16 @@
   "turknet": {
     "available": [
       {
+        "code": "FAQ79XQ82QGP",
+        "expires": "08.04.2026",
+        "win": false
+      },
+      {
+        "code": "VYQ94TL48ALW",
+        "expires": "08.04.2026",
+        "win": false
+      },
+      {
         "code": "DHF16LC92TRQ",
         "expires": "08.04.2026",
         "win": false
@@ -12,18 +22,8 @@
         "win": false
       },
       {
-        "code": "RSM51AS57PDN",
-        "expires": "02.04.2026",
-        "win": false
-      },
-      {
         "code": "IVJ21MS54QOV",
         "expires": "26.03.2026",
-        "win": false
-      },
-      {
-        "code": "MEX68UR13UEE",
-        "expires": "25.03.2026",
         "win": false
       }
     ],
