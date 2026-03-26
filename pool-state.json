@@ -2,6 +2,11 @@
   "turknet": {
     "available": [
       {
+        "code": "UIY10TG12PLD",
+        "expires": "09.04.2026",
+        "win": false
+      },
+      {
         "code": "FAQ79XQ82QGP",
         "expires": "08.04.2026",
         "win": false
@@ -19,11 +24,6 @@
       {
         "code": "CEJ52MV83CQC",
         "expires": "08.04.2026",
-        "win": false
-      },
-      {
-        "code": "IVJ21MS54QOV",
-        "expires": "26.03.2026",
         "win": false
       }
     ],
