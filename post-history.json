@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2037085939361579226",
+    "textHash": "5553947fd4d00dbe76c171ba0200105c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
+    "postedAt": "2026-03-26T07:18:06.477Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2037085934638772525",
+    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
+    "postedAt": "2026-03-26T07:18:06.477Z"
+  },
+  {
     "productId": "getir-finans",
     "assetId": "getir-finans-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "f98116e05cfd14f2a69233a54cfab9eb",
     "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim için bu referans linkini kullan. 100 TL İndirim fırsatı, referans linki arayanlar için burada duruyor. Korendy alışverişlerinde referans linki ile indirim fırsatı elde edilir.\n#Korendy",
     "postedAt": "2026-03-17T07:12:41.457Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2033781199492067704",
-    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
-    "postedAt": "2026-03-17T05:23:44.387Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-IVJ21MS54QOV",
-    "accountId": "account1",
-    "tweetId": "2033781141665173861",
-    "textHash": "67e8893b51230f5772c74a95bc895af9",
-    "tweetText": "TürkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
-    "postedAt": "2026-03-17T05:23:44.387Z"
   }
 ]
