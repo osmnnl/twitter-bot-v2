@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2037046024624124337",
+    "textHash": "c5298ca8223d88fa8308cb35b4e1088a",
+    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara için bu davet kodunu kullan. Banka kampanyası arayanlar için ₺500 GetirPara fırsatı burada. Yeni müşteri kazanımını net, kısa ve adım adım anlat.",
+    "postedAt": "2026-03-26T05:43:28.545Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-CEJ52MV83CQC",
+    "accountId": "account1",
+    "tweetId": "2037046012762550733",
+    "textHash": "8259d142552a7627a77c2fbe8061ee03",
+    "tweetText": "Turk Net\nDavet Kodu: CEJ52MV83CQC\nDavet Linki: https://turk.net/?p=CEJ52MV83CQC\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet",
+    "postedAt": "2026-03-26T05:43:28.545Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "67e8893b51230f5772c74a95bc895af9",
     "tweetText": "TürkNet\nDavet Kodu: IVJ21MS54QOV\nDavet Linki: https://turk.net/?p=IVJ21MS54QOV\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
     "postedAt": "2026-03-17T05:23:44.387Z"
-  },
-  {
-    "productId": "getir-finans",
-    "assetId": "getir-finans-fixed",
-    "accountId": "account2",
-    "tweetId": "2033759262132818328",
-    "textHash": "b3b11aae72b1152ba95116fc1f7bc20a",
-    "tweetText": "Getir Finans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir Finans'a ilk kez müşteri olurken ₺500 GetirPara için bu davet kodunu kullan. GetirFinans davet kodu, referans linki, kampanya, bedava fırsat arayanlara bu avantaj.\n#GetirFinans #GetirPara #davetkodu",
-    "postedAt": "2026-03-17T02:37:15.902Z"
-  },
-  {
-    "productId": "vodafone-avantajli",
-    "assetId": "vodafone-avantajli-fixed",
-    "accountId": "account1",
-    "tweetId": "2033759168310423870",
-    "textHash": "40bc497b5575299b1e044f8b1d2ff058",
-    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye kampanya avantajı için bu davet kodunu kullan.\n#Vodafone #Tarife",
-    "postedAt": "2026-03-17T02:37:15.902Z"
   }
 ]
