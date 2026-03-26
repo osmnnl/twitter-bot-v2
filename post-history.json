@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2037272704664166456",
+    "textHash": "c2955d6dbd7ba68d8eaa8194804c392f",
+    "tweetText": "Getir\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir'e ilk kez müşteri olurken ₺500 GetirPara müşteri ol kampanya avantajı almak için bu davet kodunu kullan. ₺500 GetirPara fırsatı, davet kodu arayanlar için burada duruyor.\n#GetirFinans #GetirPara",
+    "postedAt": "2026-03-26T19:16:13.362Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-55AFC5CC",
+    "accountId": "account1",
+    "tweetId": "2037272695990325623",
+    "textHash": "c69fed3c7ab13f743a744caaab1ca78d",
+    "tweetText": "Pegasus\nDavet Kodu: 55AFC5CC\nDavet Linki: https://flyp.gs/55AFC5CC\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada.\n#Pegasus #BolBol",
+    "postedAt": "2026-03-26T19:16:13.362Z"
+  },
+  {
     "productId": "turknet",
     "assetId": "turknet-VYQ94TL48ALW",
     "accountId": "account1",
@@ -1780,23 +1798,5 @@
     "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
     "postedAt": "2026-03-17T17:09:11.022Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-WJX59LQ66UXS",
-    "accountId": "account1",
-    "tweetId": "2033973590786224204",
-    "textHash": "9a67cb2e092354f3ead0ff9b7cbf4cf7",
-    "tweetText": "TurkNet\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-17T17:09:11.022Z"
-  },
-  {
-    "productId": "getir-finans",
-    "assetId": "getir-finans-fixed",
-    "accountId": "account2",
-    "tweetId": "2033938417898123565",
-    "textHash": "7e3e5a694fc5d315e1b3927183c6fa93",
-    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için ₺500 GetirPara fırsatı burada.\n#GetirFinans #davetkodu",
-    "postedAt": "2026-03-17T15:03:23.219Z"
   }
 ]
