@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2037316439627976877",
+    "textHash": "14503ceb4c3ba5b80ef5cf6448c1196d",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor.\n#Bonus #GarantiBBVA",
+    "postedAt": "2026-03-26T22:37:02.100Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2037316435056153065",
+    "textHash": "c9ee5b97e72e66b0b176a6f4e95a6964",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki kampanya avantajı için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
+    "postedAt": "2026-03-26T22:37:02.100Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "d743c583eac4f062ae8dce260eaad24e",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
     "postedAt": "2026-03-17T20:47:59.680Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-SQM64SQ15QPA",
-    "accountId": "account1",
-    "tweetId": "2034015092342132844",
-    "textHash": "48d76ebdfa49c7e619441f3b00b13781",
-    "tweetText": "Türk Net\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürk Net'e kaydolurken ilk ay bedava internet için bu davet kodunu kullan. TurkNet referans linki, fiber internet kampanyası ve fırsatı arayanlara bu avantajı sunar.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-17T20:47:59.680Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2034003457477169628",
-    "textHash": "ea73ee85ae4ed1d57f9fec6ada19d98a",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Banka kampanyası ve referans kodu arayanlar için 1.000 TL Bonus fırsatı ve avantajı burada.\n#GarantiBBVA #Bonus",
-    "postedAt": "2026-03-17T19:11:00.256Z"
   }
 ]
