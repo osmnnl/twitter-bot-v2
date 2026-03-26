@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2037120250802823617",
+    "textHash": "46a048ffde0d890de63d4bf8931c26a7",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kampanya avantajı için bu davet kodunu kullan. Garanti BBVA davet kodu ve Garanti BBVA referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#GarantiBBVA #Bonus",
+    "postedAt": "2026-03-26T09:04:26.326Z"
+  },
+  {
+    "productId": "vodafone-freezone",
+    "assetId": "vodafone-freezone-fixed",
+    "accountId": "account1",
+    "tweetId": "2037120245211763105",
+    "textHash": "f26288aeb8edc65e37bdad1a92c5abab",
+    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform için bu davet kodunu kullan. 30 GB + 3 Ay Dijital Platform fırsatı, davet kodu arayanlar için burada duruyor.",
+    "postedAt": "2026-03-26T09:04:26.326Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ddbbe85226cfd90071ba93d7831211eb",
     "tweetText": "TürkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTürkNet'e kaydolurken veya başvururken 1 ay bedava fiber internet için bu davet kodunu kullan. TurkNet referans linki arayanlar için bu kampanya, 1 ay ücretsiz internet fırsatı sunar.\n#TurkNet #ArkadasiniGetir",
     "postedAt": "2026-03-17T08:59:40.268Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2033820660619686189",
-    "textHash": "c40e5ecd2109b82b36e2d3aa78d5bdb3",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. 500 TL MaxiPuan fırsatı, davet kodu arayanlar için burada duruyor.\n#IsBankasi #MaxiPuan",
-    "postedAt": "2026-03-17T07:12:41.457Z"
-  },
-  {
-    "productId": "korendy",
-    "assetId": "korendy-link",
-    "accountId": "account1",
-    "tweetId": "2033820602083967165",
-    "textHash": "f98116e05cfd14f2a69233a54cfab9eb",
-    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim için bu referans linkini kullan. 100 TL İndirim fırsatı, referans linki arayanlar için burada duruyor. Korendy alışverişlerinde referans linki ile indirim fırsatı elde edilir.\n#Korendy",
-    "postedAt": "2026-03-17T07:12:41.457Z"
   }
 ]
