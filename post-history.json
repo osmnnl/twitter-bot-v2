@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2037192590815088706",
+    "textHash": "eaaef0ac7c6dc288cbadf7a093533ac7",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan kampanya avantajı için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#MaxiPuan #IsBankasi",
+    "postedAt": "2026-03-26T13:41:53.314Z"
+  },
+  {
+    "productId": "starbucks",
+    "assetId": "starbucks-fixed",
+    "accountId": "account1",
+    "tweetId": "2037192585274355795",
+    "textHash": "547ba0f11b74b5b148e37e865b8f4313",
+    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. 1 Adet İkram İçecek fırsatı, davet kodu arayanlar için burada duruyor.\n#Starbucks #Ikram",
+    "postedAt": "2026-03-26T13:41:53.314Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "0ae2931610c90e14515767cf5943bc75",
     "tweetText": "Turk Net\nDavet Kodu: WJX59LQ66UXS\nDavet Linki: https://turk.net/?p=WJX59LQ66UXS\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
     "postedAt": "2026-03-17T13:24:47.816Z"
-  },
-  {
-    "productId": "enpara-sirketim",
-    "assetId": "enpara-sirketim-link",
-    "accountId": "account2",
-    "tweetId": "2033876153069437279",
-    "textHash": "861b72c042e3c83dd33c35c343c5d2d5",
-    "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kampanya avantajı için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Ödül fırsatı burada.\n#Enpara #Sirketim",
-    "postedAt": "2026-03-17T10:56:06.498Z"
-  },
-  {
-    "productId": "korendy",
-    "assetId": "korendy-link",
-    "accountId": "account1",
-    "tweetId": "2033876083561394208",
-    "textHash": "6308f3d883b1902feebe0d62be1ec595",
-    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kampanya avantajı için bu referans linkini kullan. Kozmetik kampanyası arayanlar için 100 TL İndirim fırsatı burada.\n#KBeauty #Korendy",
-    "postedAt": "2026-03-17T10:56:06.498Z"
   }
 ]
