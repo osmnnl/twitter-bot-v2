@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2037292925906796581",
+    "textHash": "4e774c4ca1b847fd5a83759b751a9ba5",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
+    "postedAt": "2026-03-26T20:57:36.486Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-UIY10TG12PLD",
+    "accountId": "account1",
+    "tweetId": "2037292921410462090",
+    "textHash": "69dd9bc53add476762db70f85f725d76",
+    "tweetText": "Turk Net\nDavet Kodu: UIY10TG12PLD\nDavet Linki: https://turk.net/?p=UIY10TG12PLD\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
+    "postedAt": "2026-03-26T20:57:36.486Z"
+  },
+  {
     "productId": "getir-finans",
     "assetId": "getir-finans-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "ea73ee85ae4ed1d57f9fec6ada19d98a",
     "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kazanmak için bu davet kodunu kullan. Banka kampanyası ve referans kodu arayanlar için 1.000 TL Bonus fırsatı ve avantajı burada.\n#GarantiBBVA #Bonus",
     "postedAt": "2026-03-17T19:11:00.256Z"
-  },
-  {
-    "productId": "pegasus",
-    "assetId": "pegasus-CF14CE31",
-    "accountId": "account1",
-    "tweetId": "2034003411050332395",
-    "textHash": "004d6c6606e3319e00cc8593b775dba0",
-    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor.\n#BolBol #Pegasus",
-    "postedAt": "2026-03-17T19:11:00.256Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2033973630820823436",
-    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
-    "postedAt": "2026-03-17T17:09:11.022Z"
   }
 ]
