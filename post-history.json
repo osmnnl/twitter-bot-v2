@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2037456299294605520",
+    "textHash": "21167fbebdd9dcc9a80e283dcbebba7c",
+    "tweetText": "Getir Finans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir Finans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. GetirFinans davet kodu ve Getir Finans referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-27T09:00:41.356Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-55AFC5CC",
+    "accountId": "account1",
+    "tweetId": "2037456289043771482",
+    "textHash": "0148ed2f6aeb576085b301a7e697a742",
+    "tweetText": "Pegasus\nDavet Kodu: 55AFC5CC\nDavet Linki: https://flyp.gs/55AFC5CC\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan avantajı almak için bu davet kodunu kullan. Pegasus davet kodu ve Pegasus referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Pegasus",
+    "postedAt": "2026-03-27T09:00:41.356Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "d8e209e0ed6c742d62ff741b4c1638e1",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
     "postedAt": "2026-03-18T07:09:41.502Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2034189550910648498",
-    "textHash": "b6dcdcbdd823245d8678b6f37e3fd552",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye başvururken 500 TL Hepsiburada Çeki hediye fırsatı için bu davet kodunu kullan. Ev interneti kampanyası arayanlar bedava avantaj kazan.\n#VodafoneEvInternet #EvInterneti",
-    "postedAt": "2026-03-18T07:09:41.502Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2034142752141664619",
-    "textHash": "14503ceb4c3ba5b80ef5cf6448c1196d",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor.\n#Bonus #GarantiBBVA",
-    "postedAt": "2026-03-18T05:37:18.762Z"
   }
 ]
