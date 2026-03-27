@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2037414238805774593",
+    "textHash": "0327bd27ac7826f791e50f1a2f1e808d",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus için bu davet kodunu kullan. Banka kampanyası arayanlar için 1.000 TL Bonus fırsatı burada. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#Bonus #GarantiBBVA",
+    "postedAt": "2026-03-27T05:44:39.782Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2037414234296881478",
+    "textHash": "4da3f388727d1e605891759cb64cb698",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim için bu referans linkini kullan. Kozmetik kampanyası arayanlar için 100 TL İndirim fırsatı burada. Korendy alışverişlerinde referans linki ile indirim fırsatı elde edilir.\n#Korendy",
+    "postedAt": "2026-03-27T05:44:39.782Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "d743c583eac4f062ae8dce260eaad24e",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
     "postedAt": "2026-03-18T02:43:44.056Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-MEX68UR13UEE",
-    "accountId": "account1",
-    "tweetId": "2034115137922093228",
-    "textHash": "8273d237674156318f848686f0313151",
-    "tweetText": "TürkNet\nDavet Kodu: MEX68UR13UEE\nDavet Linki: https://turk.net/?p=MEX68UR13UEE\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
-    "postedAt": "2026-03-18T02:43:44.056Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2034050427222945938",
-    "textHash": "e15ae8830c8e1dabbd3ceff5ede10f2e",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan. Banka kampanyası ve davet kodu arayanlara özel bu fırsat ile bedava nakit iade kazan.\n#Enpara #NakitIade",
-    "postedAt": "2026-03-17T22:39:40.244Z"
   }
 ]
