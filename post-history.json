@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2037634779588231580",
+    "textHash": "379b99f21f462a9d5c7d3e39a008ff06",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
+    "postedAt": "2026-03-27T19:03:00.547Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-CEJ52MV83CQC",
+    "accountId": "account1",
+    "tweetId": "2037634774353727764",
+    "textHash": "005ae44c02dd2888a06c0d5819d8761d",
+    "tweetText": "TürkNet\nDavet Kodu: CEJ52MV83CQC\nDavet Linki: https://turk.net/?p=CEJ52MV83CQC\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet #ArkadasiniGetir",
+    "postedAt": "2026-03-27T19:03:00.547Z"
+  },
+  {
     "productId": "akbank",
     "assetId": "akbank-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "0121b91ecd55833bcc1c3fce1113f041",
     "tweetText": "Enpara Şirketim\nDavet Linki: https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_316996901\n\nEnpara Şirketim'e ilk kez müşteri olurken 1.000 TL Ödül kazanmak için bu referans linkini kullan. Şirket sahipleri için bu banka kampanyası, 1.000 TL hediye fırsatı ve avantajı sunar.\n#Enpara #Sirketim",
     "postedAt": "2026-03-18T17:08:47.044Z"
-  },
-  {
-    "productId": "korendy",
-    "assetId": "korendy-link",
-    "accountId": "account1",
-    "tweetId": "2034342565256773913",
-    "textHash": "a45b403f36a5dd5858d2b7211355ec8c",
-    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kampanya avantajı için bu referans linkini kullan. Kozmetik kampanyası ve fırsatı arayanlar 100 TL hediye indirim kazan.\n#Korendy #KBeauty",
-    "postedAt": "2026-03-18T17:08:47.044Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034310603960209813",
-    "textHash": "84ea8af8c46148eeb58689fc5d2ac98c",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
-    "postedAt": "2026-03-18T15:10:01.614Z"
   }
 ]
