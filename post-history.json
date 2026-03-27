@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2037587082118418599",
+    "textHash": "706e1ef75c4bdc86265af99e571ffbd3",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-27T17:00:28.661Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2037587077395624356",
+    "textHash": "f1f148e4c144dc0f61257be44ddffc8e",
+    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye fırsatı almak için bu davet kodunu kullan.\n#Tarife #Vodafone",
+    "postedAt": "2026-03-27T17:00:28.661Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "84ea8af8c46148eeb58689fc5d2ac98c",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
     "postedAt": "2026-03-18T15:10:01.614Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-REE30VK13POU",
-    "accountId": "account1",
-    "tweetId": "2034310553372606498",
-    "textHash": "5eaae04d9bc75eb334c46eea937ca3b5",
-    "tweetText": "TurkNet\nDavet Kodu: REE30VK13POU\nDavet Linki: https://turk.net/?p=REE30VK13POU\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#TurkNet #ArkadasiniGetir",
-    "postedAt": "2026-03-18T15:10:01.614Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2034272194067419242",
-    "textHash": "a3623595cdd6a86ee4ca0b7829be6a44",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kampanya avantajı için bu davet kodunu kullan. Akbank referans kodu ve banka fırsatı arayanlar bedava Chip-para kazan.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-18T13:25:58.607Z"
   }
 ]
