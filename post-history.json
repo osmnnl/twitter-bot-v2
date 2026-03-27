@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2037544714304409941",
+    "textHash": "4bb8e477802ebae59c0f132963299168",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara #Akbank",
+    "postedAt": "2026-03-27T13:19:07.452Z"
+  },
+  {
+    "productId": "korendy",
+    "assetId": "korendy-link",
+    "accountId": "account1",
+    "tweetId": "2037544709912936949",
+    "textHash": "7bbe32c13c074af19b39eff294e7ea59",
+    "tweetText": "Korendy\nDavet Linki: https://oken.do/xqsob743?utm_source=whats-app\n\nKorendy'e alışverişe başlarken 100 TL İndirim kampanya avantajı için bu referans linkini kullan. Korendy referans linki ve Korendy referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#KBeauty #Korendy",
+    "postedAt": "2026-03-27T13:19:07.452Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "379b99f21f462a9d5c7d3e39a008ff06",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
     "postedAt": "2026-03-18T10:57:00.521Z"
-  },
-  {
-    "productId": "vodafone-ilk-hattim",
-    "assetId": "vodafone-ilk-hattim-fixed",
-    "accountId": "account1",
-    "tweetId": "2034223655853674710",
-    "textHash": "3fb8ad3a66dcd1927cf490dc3ab145c9",
-    "tweetText": "Vodafone İlk Hattım\nDavet Kodu: ILK50A6S8TZ\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=ILK50A6S8TZ&cid=perf-ambaff\n\nVodafone İlk Hattım'a yeni hat alırken İlk 3 Ay 30 GB Hediye avantajı için bu davet kodunu kullan. Mobil kampanya ve fırsat arayanlar bedava internet kazan.\n#Vodafone #IlkHattim",
-    "postedAt": "2026-03-18T10:57:00.521Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2034194355569786998",
-    "textHash": "9a250ab2f787aad18b616db63e90cd18",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. Banka kampanyası arayanlar için 1.000 TL Nakit İade fırsatı burada.\n#NakitIade #Enpara",
-    "postedAt": "2026-03-18T08:57:38.793Z"
   }
 ]
