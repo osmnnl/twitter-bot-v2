@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2037444290259849713",
+    "textHash": "76b5a278733ebdb7900cd193fa3f4897",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
+    "postedAt": "2026-03-27T07:17:04.701Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-FAQ79XQ82QGP",
+    "accountId": "account1",
+    "tweetId": "2037444285960700269",
+    "textHash": "0e721ab80063953b6974cb6abd555f5b",
+    "tweetText": "TürkNet\nDavet Kodu: FAQ79XQ82QGP\nDavet Linki: https://turk.net/?p=FAQ79XQ82QGP\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#TurkNet",
+    "postedAt": "2026-03-27T07:17:04.701Z"
+  },
+  {
     "productId": "garanti-bbva",
     "assetId": "garanti-bbva-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "14503ceb4c3ba5b80ef5cf6448c1196d",
     "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor.\n#Bonus #GarantiBBVA",
     "postedAt": "2026-03-18T05:37:18.762Z"
-  },
-  {
-    "productId": "vodafone-freezone",
-    "assetId": "vodafone-freezone-fixed",
-    "accountId": "account1",
-    "tweetId": "2034142716934672882",
-    "textHash": "ff9a6092102bd4d85cf11c23b32eace5",
-    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform hediyesi almak için bu davet kodunu kullan.\n#Vodafone #FreeZone",
-    "postedAt": "2026-03-18T05:37:18.762Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034115189872746517",
-    "textHash": "d743c583eac4f062ae8dce260eaad24e",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
-    "postedAt": "2026-03-18T02:43:44.056Z"
   }
 ]
