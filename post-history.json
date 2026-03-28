@@ -1,5 +1,23 @@
 [
   {
+    "productId": "garanti-bbva",
+    "assetId": "garanti-bbva-fixed",
+    "accountId": "account2",
+    "tweetId": "2037925329574990206",
+    "textHash": "d647ae06463d2ea6985495d8f40709a1",
+    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus kampanya avantajı için bu davet kodunu kullan. 1.000 TL Bonus fırsatı, davet kodu arayanlar için burada duruyor. Garanti BBVA kampanyasında davet kodu ile bonus avantajı var.\n#GarantiBBVA",
+    "postedAt": "2026-03-28T14:37:32.897Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2037925324613124569",
+    "textHash": "cc17283c428615192b007df409db50ef",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki hediye veya indirim avantajı almak için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
+    "postedAt": "2026-03-28T14:37:32.897Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "b9f93cdec297f4413c7da236ac7ce549",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
     "postedAt": "2026-03-19T13:18:54.210Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2034646838842642893",
-    "textHash": "25957a19f547a22d0a27673d98e50191",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Ikram #Starbucks",
-    "postedAt": "2026-03-19T13:18:54.210Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2034594484403494980",
-    "textHash": "03884d5063f98428d68ec04a732019f9",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#IsBankasi #MaxiPuan",
-    "postedAt": "2026-03-19T10:50:04.544Z"
   }
 ]
