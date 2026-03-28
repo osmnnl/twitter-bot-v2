@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2038033726060314886",
+    "textHash": "59b61981afc11f4b20115f50d9130965",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade kampanya avantajı için bu referans linkini kullan. Enpara Bireysel referans linki ve Enpara Bireysel referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-28T22:35:16.971Z"
+  },
+  {
+    "productId": "vodafone-avantajli",
+    "assetId": "vodafone-avantajli-fixed",
+    "accountId": "account1",
+    "tweetId": "2038033721413013534",
+    "textHash": "9334d6b0a48da0268449962eb13185e5",
+    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. İlk 3 Ay 30 GB Hediye fırsatı, davet kodu arayanlar için burada duruyor.\n#Tarife",
+    "postedAt": "2026-03-28T22:35:16.971Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "566d04c897f558ef3bd15bbba04641ee",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
     "postedAt": "2026-03-19T20:46:43.880Z"
-  },
-  {
-    "productId": "vodafone-avantajli",
-    "assetId": "vodafone-avantajli-fixed",
-    "accountId": "account1",
-    "tweetId": "2034763413419651137",
-    "textHash": "671f19dd45e0bf1a385180095442806c",
-    "tweetText": "Vodafone Avantajlı\nDavet Kodu: TERCIH47RD0RACI\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=TERCIH47RD0RACI&cid=perf-ambaff\n\nVodafone Avantajlı'ya yeni hat alırken veya numara taşırken İlk 3 Ay 30 GB Hediye için bu davet kodunu kullan. Mobil hat kampanyası arayanlar için İlk 3 Ay 30 GB Hediye fırsatı burada.\n#Vodafone",
-    "postedAt": "2026-03-19T20:46:43.880Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2034728816891879452",
-    "textHash": "88b6d905c208fcd5c7058bfb3245c8ee",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus avantajı için bu davet kodunu kullan. Garanti BBVA davet kodu veya referans kodu arayanlar, bu banka kampanyası ile 1.000 TL bedava bonus fırsatı kazan.\n#GarantiBBVA #Bonus",
-    "postedAt": "2026-03-19T19:06:30.076Z"
   }
 ]
