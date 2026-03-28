@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2037882905423421830",
+    "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
+    "postedAt": "2026-03-28T13:06:56.976Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-VYQ94TL48ALW",
+    "accountId": "account1",
+    "tweetId": "2037882900327358904",
+    "textHash": "7da1abf5580b26be41a8bda2a3a02fe8",
+    "tweetText": "TürkNet\nDavet Kodu: VYQ94TL48ALW\nDavet Linki: https://turk.net/?p=VYQ94TL48ALW\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-28T13:06:56.976Z"
+  },
+  {
     "productId": "getir-finans",
     "assetId": "getir-finans-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "03884d5063f98428d68ec04a732019f9",
     "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#IsBankasi #MaxiPuan",
     "postedAt": "2026-03-19T10:50:04.544Z"
-  },
-  {
-    "productId": "vodafone-freezone",
-    "assetId": "vodafone-freezone-fixed",
-    "accountId": "account1",
-    "tweetId": "2034594439897694372",
-    "textHash": "5430cef07c3430d7cba62dffab967a0d",
-    "tweetText": "Vodafone FreeZone\nDavet Kodu: GENC2F4B5EN7\nDavet Linki: https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=GENC2F4B5EN7&cid=perf-ambaff\n\nVodafone FreeZone'ye yeni hat alırken veya numara taşırken 30 GB + 3 Ay Dijital Platform için bu davet kodunu kullan.\n#FreeZone #Vodafone",
-    "postedAt": "2026-03-19T10:50:04.544Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034581292361167255",
-    "textHash": "d8e209e0ed6c742d62ff741b4c1638e1",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
-    "postedAt": "2026-03-19T08:52:07.161Z"
   }
 ]
