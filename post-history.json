@@ -1,5 +1,23 @@
 [
   {
+    "productId": "isbank",
+    "assetId": "isbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2037743202548019424",
+    "textHash": "66f1855d483702ac75a8b07473615a2e",
+    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan için bu davet kodunu kullan. Banka kampanyası arayanlar için 500 TL MaxiPuan fırsatı burada.\n#IsBankasi #MaxiPuan",
+    "postedAt": "2026-03-28T02:41:49.514Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-UIY10TG12PLD",
+    "accountId": "account1",
+    "tweetId": "2037743197783265764",
+    "textHash": "8be8b75c27ab119e4b44cdedf83c10ce",
+    "tweetText": "TürkNet\nDavet Kodu: UIY10TG12PLD\nDavet Linki: https://turk.net/?p=UIY10TG12PLD\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet fırsatı almak için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-28T02:41:49.514Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "0991d65a095b92d1b39f6a2e7a735fc6",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
     "postedAt": "2026-03-18T22:37:39.614Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2034399891548467535",
-    "textHash": "e8f7c4c94038e8a7d39647c68401c736",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek fırsatı için bu davet kodunu kullan. Kahve kampanyası arayanlar, bu referans linki ile bedava ikram içecek kazan.\n#Starbucks #Ikram",
-    "postedAt": "2026-03-18T22:37:39.614Z"
-  },
-  {
-    "productId": "isbank",
-    "assetId": "isbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2034376446819344736",
-    "textHash": "3232dccabca3ee5b97873c481fa30ca7",
-    "tweetText": "İş Bankası\nDavet Kodu: Q3K1A1N7\nDavet Linki: https://isbank.tr.go.link/cwQQi\n\nİş Bankası'na ilk kez müşteri olurken 500 TL MaxiPuan avantajı için bu davet kodunu kullan. İş Bankası referans linki arayanlar bu banka kampanyası ile bedava MaxiPuan fırsatı kazan.\n#IsBankasi #MaxiPuan",
-    "postedAt": "2026-03-18T20:45:04.698Z"
   }
 ]
