@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2037967308061037047",
+    "textHash": "b89913d143fb2f75b9ec0ab4d8948b62",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Banka kampanyası arayanlar için 2.500 TL Chip-para fırsatı burada. Yeni müşteri tarafında chip-para avantajı var.\n#ChipPara",
+    "postedAt": "2026-03-28T18:51:21.429Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-CF14CE31",
+    "accountId": "account1",
+    "tweetId": "2037967303132741677",
+    "textHash": "5e021e048aa20a2b3b439b24a8abe706",
+    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan kampanya avantajı için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor.\n#BolBol #Pegasus",
+    "postedAt": "2026-03-28T18:51:21.429Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "0baf06ca91e1290da5f1d96d4807e3be",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan avantajı almak için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
     "postedAt": "2026-03-19T17:03:15.992Z"
-  },
-  {
-    "productId": "pegasus",
-    "assetId": "pegasus-CF14CE31",
-    "accountId": "account1",
-    "tweetId": "2034695541305516048",
-    "textHash": "18a8629715551840beaa70d605ce6cdf",
-    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üye olurken veya bilet planlarken 2.000 BolBol Puan avantajı için bu davet kodunu kullan. Seyahat kampanyası arayanlar, Pegasus davet kodu ile bedava BolBol puan kazanma fırsatı yakalar.\n#Pegasus #BolBol",
-    "postedAt": "2026-03-19T17:03:15.992Z"
-  },
-  {
-    "productId": "enpara-bireysel",
-    "assetId": "enpara-bireysel-link",
-    "accountId": "account2",
-    "tweetId": "2034659455720112478",
-    "textHash": "beb4ba37b733b90bb3a643d87280f8bc",
-    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı için bu referans linkini kullan. Banka kampanyası arayanlar, bu link ile 1.000 TL bedava nakit iade fırsatı kazan.\n#Enpara #NakitIade",
-    "postedAt": "2026-03-19T15:03:46.954Z"
   }
 ]
