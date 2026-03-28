@@ -1,5 +1,23 @@
 [
   {
+    "productId": "getir-finans",
+    "assetId": "getir-finans-fixed",
+    "accountId": "account2",
+    "tweetId": "2037854286474830099",
+    "textHash": "99ae7d88f004b60da5bc3f8cb035cd9d",
+    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. GetirFinans davet kodu ve Getir Finans referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-28T10:54:14.268Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-55AFC5CC",
+    "accountId": "account1",
+    "tweetId": "2037854277209612616",
+    "textHash": "d7e41f25e67aa321524377b6e68f2177",
+    "tweetText": "Pegasus\nDavet Kodu: 55AFC5CC\nDavet Linki: https://flyp.gs/55AFC5CC\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada. Pegasus kampanyasında havuz kodu ile BolBol puan.",
+    "postedAt": "2026-03-28T10:54:14.268Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "d8e209e0ed6c742d62ff741b4c1638e1",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
     "postedAt": "2026-03-19T08:52:07.161Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-SQM64SQ15QPA",
-    "accountId": "account1",
-    "tweetId": "2034581238342725972",
-    "textHash": "d69b353d4832eb92222c3000223f12ed",
-    "tweetText": "TurkNet\nDavet Kodu: SQM64SQ15QPA\nDavet Linki: https://turk.net/?p=SQM64SQ15QPA\n\nTurkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.\n#ArkadasiniGetir #TurkNet",
-    "postedAt": "2026-03-19T08:52:07.161Z"
-  },
-  {
-    "productId": "getir-finans",
-    "assetId": "getir-finans-fixed",
-    "accountId": "account2",
-    "tweetId": "2034536048621961612",
-    "textHash": "a3a27783dcb467fc48d1f4677e38385a",
-    "tweetText": "Getir Finans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir Finans'a ilk kez müşteri olurken ₺500 GetirPara kampanya avantajı için bu davet kodunu kullan. ₺500 GetirPara fırsatı, davet kodu arayanlar için burada duruyor.\n#GetirFinans #GetirPara",
-    "postedAt": "2026-03-19T07:05:12.827Z"
   }
 ]
