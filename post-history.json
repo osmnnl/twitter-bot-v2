@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2038265144967315576",
+    "textHash": "4e774c4ca1b847fd5a83759b751a9ba5",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
+    "postedAt": "2026-03-29T14:38:51.152Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-DHF16LC92TRQ",
+    "accountId": "account1",
+    "tweetId": "2038265139879637344",
+    "textHash": "4d3d23e975a8e590e133f00963d1e3ce",
+    "tweetText": "TürkNet\nDavet Kodu: DHF16LC92TRQ\nDavet Linki: https://turk.net/?p=DHF16LC92TRQ\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. 1 Ay Ücretsiz İnternet fırsatı, davet kodu arayanlar için burada duruyor.\n#ArkadasiniGetir",
+    "postedAt": "2026-03-29T14:38:51.152Z"
+  },
+  {
     "productId": "enpara-bireysel",
     "assetId": "enpara-bireysel-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "f1656efc16f3023c01b3d1a57485882b",
     "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para kazanmak için bu davet kodunu kullan. Akbank referans kodu veya davet kodu arayanlar, bu banka kampanyası ile 2.500 TL bedava chip-para avantajı kazanır.\n#Akbank #ChipPara",
     "postedAt": "2026-03-20T13:12:17.355Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2034984064474583205",
-    "textHash": "c0a075c878b6dd52b238635e2cac975b",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki hediye veya indirim avantajı almak için bu davet kodunu kullan.\n#EvInterneti #VodafoneEvInternet",
-    "postedAt": "2026-03-20T13:12:17.355Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034965694232572008",
-    "textHash": "b9f93cdec297f4413c7da236ac7ce549",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
-    "postedAt": "2026-03-20T10:45:30.447Z"
   }
 ]
