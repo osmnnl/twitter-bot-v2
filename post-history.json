@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2038361545550303741",
+    "textHash": "faffbdc80045b29a2a0eca7690baa485",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade için bu referans linkini kullan. 1.000 TL Nakit İade fırsatı, referans linki arayanlar için burada duruyor.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-29T20:39:55.158Z"
+  },
+  {
+    "productId": "hugeicons-pro",
+    "assetId": "hugeicons-pro-link",
+    "accountId": "account1",
+    "tweetId": "2038361540475167055",
+    "textHash": "be5c560978d5aada0136c9a366b67d64",
+    "tweetText": "Hugeicons\nDavet Linki: https://hugeicons.com?via=osmnnl\n\nHugeicons'a abonelik veya lisans alırken 30% Commission Rate kampanya avantajı için bu referans linkini kullan. İkon kütüphanesi kampanyası arayanlar için 30% Commission Rate fırsatı burada.\n#HugeiconsPro #Affiliate",
+    "postedAt": "2026-03-29T20:39:55.158Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "379b99f21f462a9d5c7d3e39a008ff06",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Allianz #Saglik",
     "postedAt": "2026-03-20T18:58:17.685Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2035095889136529759",
-    "textHash": "65ebb76cd70c81433b2b4ab1c9c9099b",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. 1 Adet İkram İçecek fırsatı, davet kodu arayanlar için burada duruyor.\n#Ikram #Starbucks",
-    "postedAt": "2026-03-20T18:58:17.685Z"
-  },
-  {
-    "productId": "akbank",
-    "assetId": "akbank-fixed",
-    "accountId": "account2",
-    "tweetId": "2035047818944299099",
-    "textHash": "fb4c5bdbb75147875cdfa47c3a03ec8e",
-    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para için bu davet kodunu kullan. 2.500 TL Chip-para fırsatı, davet kodu arayanlar için burada duruyor. Yeni müşteri tarafında chip-para avantajı var.\n#Akbank #ChipPara",
-    "postedAt": "2026-03-20T16:52:47.660Z"
   }
 ]
