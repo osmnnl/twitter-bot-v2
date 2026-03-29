@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2038215931759825105",
+    "textHash": "5553947fd4d00dbe76c171ba0200105c",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Allianz #Saglik",
+    "postedAt": "2026-03-29T10:47:17.978Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-DHF16LC92TRQ",
+    "accountId": "account1",
+    "tweetId": "2038215927213228069",
+    "textHash": "63ed97c5a7272298610e80bd6939a9d3",
+    "tweetText": "TürkNet\nDavet Kodu: DHF16LC92TRQ\nDavet Linki: https://turk.net/?p=DHF16LC92TRQ\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#TurkNet",
+    "postedAt": "2026-03-29T10:47:17.978Z"
+  },
+  {
     "productId": "akbank",
     "assetId": "akbank-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "13441c99de74edb8994bb5133215f1e6",
     "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Garanti BBVA davet kodu ve Garanti BBVA referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Bonus #GarantiBBVA",
     "postedAt": "2026-03-20T08:50:53.247Z"
-  },
-  {
-    "productId": "starbucks",
-    "assetId": "starbucks-fixed",
-    "accountId": "account1",
-    "tweetId": "2034929444192727104",
-    "textHash": "369192f6dc43bcb7d76faaf9a1c5e16b",
-    "tweetText": "Starbucks\nDavet Kodu: H923HCRC\nDavet Linki: https://www.starbucks.com.tr/join?code=H923HCRC\n\nStarbucks'a üyelik açarken 1 Adet İkram İçecek kampanya avantajı için bu davet kodunu kullan. Kahve kampanyası arayanlar için 1 Adet İkram İçecek fırsatı burada.\n#Starbucks #Ikram",
-    "postedAt": "2026-03-20T08:50:53.247Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034913466893705283",
-    "textHash": "739520bdb4949c3a1b1cdc4f0f4e1c63",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
-    "postedAt": "2026-03-20T07:03:48.082Z"
   }
 ]
