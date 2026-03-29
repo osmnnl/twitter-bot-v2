@@ -1,5 +1,23 @@
 [
   {
+    "productId": "akbank",
+    "assetId": "akbank-fixed",
+    "accountId": "account2",
+    "tweetId": "2038149987968663766",
+    "textHash": "d1a8a46e4a9f0d7e3fd03efed6659802",
+    "tweetText": "Akbank\nDavet Kodu: 1001013609660\n\nAkbank'a ilk kez müşteri olurken 2.500 TL Chip-para müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Akbank davet kodu ve Akbank referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Akbank #ChipPara",
+    "postedAt": "2026-03-29T05:45:15.940Z"
+  },
+  {
+    "productId": "pegasus",
+    "assetId": "pegasus-CF14CE31",
+    "accountId": "account1",
+    "tweetId": "2038149983673729377",
+    "textHash": "e94d4529100b005ca92f5f2d380fac47",
+    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan için bu davet kodunu kullan. Seyahat kampanyası arayanlar için 2.000 BolBol Puan fırsatı burada. Pegasus kampanyasında havuz kodu ile BolBol puan.",
+    "postedAt": "2026-03-29T05:45:15.940Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "739520bdb4949c3a1b1cdc4f0f4e1c63",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
     "postedAt": "2026-03-20T02:35:47.978Z"
-  },
-  {
-    "productId": "vodafone-ev-internet",
-    "assetId": "vodafone-ev-internet-fixed",
-    "accountId": "account1",
-    "tweetId": "2034848463876419947",
-    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
-    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
-    "postedAt": "2026-03-20T02:35:47.978Z"
-  },
-  {
-    "productId": "getir-finans",
-    "assetId": "getir-finans-fixed",
-    "accountId": "account2",
-    "tweetId": "2034765613650890955",
-    "textHash": "dac38341e9ffd516d74a22ab524dec42",
-    "tweetText": "GetirFinans\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetirFinans'a ilk kez müşteri olurken ₺500 GetirPara müşteri ol kampanya avantajı almak için bu davet kodunu kullan.\n#davetkodu #GetirPara",
-    "postedAt": "2026-03-19T22:46:40.280Z"
   }
 ]
