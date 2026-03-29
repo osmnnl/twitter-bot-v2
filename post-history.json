@@ -1,5 +1,23 @@
 [
   {
+    "productId": "allianz-saglik",
+    "assetId": "allianz-saglik-link",
+    "accountId": "account2",
+    "tweetId": "2038153528548499658",
+    "textHash": "76b5a278733ebdb7900cd193fa3f4897",
+    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. 1.000 TL Sağlıklı Puan fırsatı, referans linki arayanlar için burada duruyor.\n#Saglik #Allianz",
+    "postedAt": "2026-03-29T07:12:20.402Z"
+  },
+  {
+    "productId": "turknet",
+    "assetId": "turknet-DHF16LC92TRQ",
+    "accountId": "account1",
+    "tweetId": "2038153524425408901",
+    "textHash": "c55e552a9a5571e1e5adccae4aeb7e5b",
+    "tweetText": "TürkNet\nDavet Kodu: DHF16LC92TRQ\nDavet Linki: https://turk.net/?p=DHF16LC92TRQ\n\nTürkNet'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. TurkNet davet kodu ve TürkNet referans linki arayanlar için kampanya avantajı bu paylaşımda.",
+    "postedAt": "2026-03-29T07:12:20.402Z"
+  },
+  {
     "productId": "akbank",
     "assetId": "akbank-fixed",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "e94b29c4f5e6a6bc5df2c89353dec415",
     "tweetText": "Getir\nDavet Kodu: GPFLJZM\nDavet Linki: https://s.getirfinans.com/arkadasini-getir-500\n\nGetir'e ilk kez müşteri olurken ₺500 GetirPara için bu davet kodunu kullan. GetirFinans davet kodu ve Getir Finans referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#davetkodu #GetirPara",
     "postedAt": "2026-03-20T05:17:41.844Z"
-  },
-  {
-    "productId": "turknet",
-    "assetId": "turknet-RSM51AS57PDN",
-    "accountId": "account1",
-    "tweetId": "2034868800081084838",
-    "textHash": "1467a33ed2367c8bab3c62dd0308541d",
-    "tweetText": "Turk Net\nDavet Kodu: RSM51AS57PDN\nDavet Linki: https://turk.net/?p=RSM51AS57PDN\n\nTurk Net'e kayıt olurken veya başvuru yaparken 1 Ay Ücretsiz İnternet kampanya avantajı için bu davet kodunu kullan. Fiber internet kampanyası arayanlar için 1 Ay Ücretsiz İnternet fırsatı burada.",
-    "postedAt": "2026-03-20T05:17:41.844Z"
-  },
-  {
-    "productId": "allianz-saglik",
-    "assetId": "allianz-saglik-link",
-    "accountId": "account2",
-    "tweetId": "2034848529995506075",
-    "textHash": "739520bdb4949c3a1b1cdc4f0f4e1c63",
-    "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan için bu referans linkini kullan. Sigorta kampanyası arayanlar için 1.000 TL Sağlıklı Puan fırsatı burada.\n#Saglik #Allianz",
-    "postedAt": "2026-03-20T02:35:47.978Z"
   }
 ]
