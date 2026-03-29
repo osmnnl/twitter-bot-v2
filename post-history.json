@@ -1,5 +1,23 @@
 [
   {
+    "productId": "enpara-bireysel",
+    "assetId": "enpara-bireysel-link",
+    "accountId": "account2",
+    "tweetId": "2038247844591911200",
+    "textHash": "9c64943905765b77e03afd7454e2b8c5",
+    "tweetText": "Enpara Bireysel\nDavet Linki: https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_316996901\n\nEnpara Bireysel'e ilk kez müşteri olurken 1.000 TL Nakit İade avantajı almak için bu referans linkini kullan. 1.000 TL Nakit İade fırsatı, referans linki arayanlar için burada duruyor.\n#Enpara #NakitIade",
+    "postedAt": "2026-03-29T13:08:06.044Z"
+  },
+  {
+    "productId": "vodafone-ev-internet",
+    "assetId": "vodafone-ev-internet-fixed",
+    "accountId": "account1",
+    "tweetId": "2038247839676133430",
+    "textHash": "06bc0e01834382aaabf26d821d73e4d9",
+    "tweetText": "Vodafone Ev İnterneti\nDavet Kodu: FIBER42ZPTTDL\nDavet Linki: https://www.vodafone.com.tr/evde-internet/home?referer=amb-75b10649-c9f6-4de6-91f5-078a24cba79b&couponCode=FIBER42ZPTTDL&cid=perf-ambaff\n\nVodafone Ev İnterneti'ye ev internetine başvururken 500 TL Hepsiburada Çeki için bu davet kodunu kullan.\n#VodafoneEvInternet #EvInterneti",
+    "postedAt": "2026-03-29T13:08:06.044Z"
+  },
+  {
     "productId": "allianz-saglik",
     "assetId": "allianz-saglik-link",
     "accountId": "account2",
@@ -1780,23 +1798,5 @@
     "textHash": "b9f93cdec297f4413c7da236ac7ce549",
     "tweetText": "Allianz Sağlık\nDavet Linki: https://www.allianz.com.tr/tr_TR/urunler/ozel-saglik-sigortalari/tamamlayici-saglik-sigortasi/tamamlayici-saglik-sigortasi-formu.html#/customer-info?referrerToken=wVBqC0FUSmaCZYVJ1POHuw%3D%3D\n\nAllianz Sağlık'a başvuru yaparken 1.000 TL Sağlıklı Puan kampanya avantajı için bu referans linkini kullan. Allianz Sağlık referans linki ve Allianz Sağlık referans linki arayanlar için kampanya avantajı bu paylaşımda.\n#Allianz",
     "postedAt": "2026-03-20T10:45:30.447Z"
-  },
-  {
-    "productId": "pegasus",
-    "assetId": "pegasus-CF14CE31",
-    "accountId": "account1",
-    "tweetId": "2034965650263654499",
-    "textHash": "64baf5ff1796174026b9f858bc7ce917",
-    "tweetText": "Pegasus\nDavet Kodu: CF14CE31\nDavet Linki: https://flyp.gs/CF14CE31\n\nPegasus'a üyelik açarken veya bilet planlarken 2.000 BolBol Puan için bu davet kodunu kullan. 2.000 BolBol Puan fırsatı, davet kodu arayanlar için burada duruyor. Pegasus kampanyasında havuz kodu ile BolBol puan.",
-    "postedAt": "2026-03-20T10:45:30.447Z"
-  },
-  {
-    "productId": "garanti-bbva",
-    "assetId": "garanti-bbva-fixed",
-    "accountId": "account2",
-    "tweetId": "2034929474987315596",
-    "textHash": "13441c99de74edb8994bb5133215f1e6",
-    "tweetText": "Garanti BBVA\nDavet Kodu: SJHIYV58\n\nGaranti BBVA'ya ilk kez müşteri olurken 1.000 TL Bonus müşteri ol kampanya avantajı almak için bu davet kodunu kullan. Garanti BBVA davet kodu ve Garanti BBVA referans kodu arayanlar için kampanya avantajı bu paylaşımda.\n#Bonus #GarantiBBVA",
-    "postedAt": "2026-03-20T08:50:53.247Z"
   }
 ]
